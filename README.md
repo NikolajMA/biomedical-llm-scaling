@@ -23,7 +23,7 @@ This repository contains the evaluation results and notebooks to replicate all e
 All LLM evaluations were done using the [LLM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) CLI from EleutherAI, using the following flags and parameters:
 ```bash
 lm_eval --model hf \ #Use "--model mamba-ssm" for Mamba models
-    --model_args pretrained=Link/tomodel \ #HuggingFace Model Link
+    --model_args pretrained=Link/tomodel \ #HuggingFace Model Link, add revision=step_n when evaluation checkpoints
     --tasks medmcqa,medqa_4options,pubmedqa,mmlu_college_medicine,mmlu_college_biology,mmlu_clinical_knowledge,mmlu_anatomy,mmlu_medical_genetics,mmlu_professional_medicine \ #All tasks from MultiMedQA
     --device cuda:0 \
     --batch_size auto \
