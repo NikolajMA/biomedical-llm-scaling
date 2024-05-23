@@ -1,13 +1,14 @@
 # Biomedical Knowledge Encoding and Learning Dynamics in LLMs
 
+This repository contains the evaluation results and notebooks to replicate all experiments, analyses, tables, and figures from the paper: 
+*Evaluating Biomedical Knowledge Encoding in Large Language Models: The Effects of Scaling and Pre-Training Data*. The main contributions are:
+
 <table style="width:100%;">
   <tr>
     <td valign="top" style="width:30%; padding-right: 20px;">
       <img src="https://github.com/NikolajMA/biomedical-llm-scaling/blob/main/image.jpeg" style="width:100%; height:auto;">
     </td>
     <td valign="top" style="width:70%;">
-      <p>This repository contains the evaluation results and notebooks to replicate all experiments, analyses, tables, and figures from the paper: 
-      <em>Evaluating Biomedical Knowledge Encoding in Large Language Models: The Effects of Scaling and Pre-Training Data</em>. The main contributions are</p>
       <ul>
         <li> :pencil: MultiMedQA evals for OLMo, Pythia, Mamba, Qwen, OpenLlama</li>
         <li>:chart_with_upwards_trend: Analysis of how task accuracy increase as a function of total model parameters within each model suite </li>
