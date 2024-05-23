@@ -64,3 +64,5 @@ def get_step_number(branch_name):
     return int(branch_name.split('-')[0].replace('step', ''))
 
 sorted_branches = sorted(branches, key=lambda x: get_step_number(x) if x != "main" else float('inf'))
+```
+The notebooks in (insert repo paths) contain the Python code necesarry to load and clean evaluation results, and recreate all tables and figures from the paper. 
