@@ -1,0 +1,2241 @@
+,Term,Count
+0,Analgesics,377441
+1,"Endocarditis, Bacterial",227
+2,Anatomic Landmarks,8095
+3,Psychiatry,6509836
+4,"Hernias, Diaphragmatic, Congenital",14
+5,Taiwan,15483879
+6,Vancomycin,409631
+7,Drowning,2896537
+8,Poverty,30638707
+9,Fingers,15168366
+10,Saliva,1626329
+11,Nasal Mucosa,46334
+12,Dehydroepiandrosterone Sulfate,13383
+13,Schizophrenic Psychology,320
+14,Absorbable Implants,381
+15,Amblyopia,113401
+16,Mass Screening,28055
+17,Chest Pain,710367
+18,Product Labeling,69805
+19,Cause of Death,2725810
+20,Positive-Pressure Respiration,158
+21,Iris,3712832
+22,Sex Offenses,123300
+23,Vasoconstrictor Agents,1357
+24,Smoking,15884715
+25,Microscopy,3597398
+26,"Fluorescent Antibody Technique, Indirect",114
+27,Group Processes,47972
+28,Gonadotropin-Releasing Hormone,50628
+29,Suicidal Ideation,338622
+30,Aryldialkylphosphatase,98
+31,Social Class,783454
+32,Urothelium,25184
+33,Cluster Analysis,186199
+34,"Antigens, Tumor-Associated, Carbohydrate",19
+35,"Hyperthermia, Induced",111
+36,Committee Membership,45926
+37,Rabbits,2692356
+38,Career Mobility,21825
+39,"Ventilators, Mechanical",177
+40,Gestational Age,396235
+41,Sternum,267640
+42,"Anesthetics, Intravenous",191
+43,Prosthesis-Related Infections,120
+44,Piperazines,5339
+45,Drug Users,685624
+46,Systemic Inflammatory Response Syndrome,25097
+47,Preoperative Care,4008
+48,Intelligence,58105145
+49,Florida,69083719
+50,"Contraceptives, Oral, Hormonal",27
+51,Vascular Endothelial Growth Factor A,1355
+52,Chemical and Drug Induced Liver Injury,96
+53,Tamoxifen,514476
+54,Vision Disorders,13262
+55,Access to Information,1731471
+56,Community-Institutional Relations,69
+57,France,73606025
+58,Single-Blind Method,623
+59,Elective Surgical Procedures,7666
+60,"Cholesterol, Dietary",1181
+61,Signal Transduction,507717
+62,Bombs,7563469
+63,Cesarean Section,209412
+64,Birth Order,102950
+65,Microbial Sensitivity Tests,989
+66,Herpesviridae Infections,269
+67,Vaginal Neoplasms,261
+68,Diet,38312830
+69,Comorbidity,550405
+70,Semicircular Canals,29833
+71,Patient Discharge,18047
+72,Intestinal Mucosa,66113
+73,Pyridines,12934
+74,"Infectious Disease Transmission, Vertical",276
+75,"Abortifacient Agents, Nonsteroidal",4
+76,Hip Fractures,106975
+77,Chronic Disease,1195361
+78,Mastectomy,478832
+79,Aromatase Inhibitors,47003
+80,Cell Count,379326
+81,Reproductive Behavior,30435
+82,Varicose Veins,264777
+83,Pitch Discrimination,3965
+84,"Neovascularization, Pathologic",436
+85,Parity,3145132
+86,Methotrexate,654076
+87,Mental Recall,1441
+88,Shoulder Pain,198253
+89,"Abortion, Induced",360
+90,Athletic Performance,307870
+91,Medical Indigency,274
+92,Molecular Diagnostic Techniques,2972
+93,Immunization Programs,46816
+94,Midodrine,13862
+95,Health Facility Merger,12
+96,Face,157014561
+97,Penis,2771349
+98,"Receptors, Estrogen",743
+99,Rehabilitation Centers,133043
+100,Nutrition Surveys,7941
+101,"Cell Line, Tumor",2115
+102,Lipoproteins,247426
+103,Immune Tolerance,59584
+104,Lupus Coagulation Inhibitor,24
+105,Patch-Clamp Techniques,2456
+106,"Ventricular Function, Right",67
+107,Healthy Lifestyle,1066587
+108,Pancreatectomy,36562
+109,Poland,16831731
+110,Hydrocephalus,325911
+111,"Receptors, Immunologic",262
+112,Drug-Related Side Effects and Adverse Reactions,409
+113,"Metabolism, Inborn Errors",1276
+114,Geographic Atrophy,24957
+115,College Admission Test,24202
+116,Cell Differentiation,324605
+117,Germ Cells,176275
+118,Pneumococcal Vaccines,24561
+119,Hyponatremia,213336
+120,Fatty Liver,493445
+121,Pseudomonas aeruginosa,369382
+122,Health Services Needs and Demand,370
+123,Smoking Cessation,646965
+124,Health Status Indicators,5050
+125,Endovascular Procedures,14473
+126,"Medical Staff, Hospital",742
+127,Endpoint Determination,1016
+128,Rh Isoimmunization,116
+129,Lung Neoplasms,3575
+130,"Gene Expression Regulation, Neoplastic",834
+131,Confidence Intervals,671045
+132,Radiology,2626615
+133,Interdisciplinary Communication,8283
+134,Orthodontic Brackets,7851
+135,Immunosuppressive Agents,40005
+136,Isoproterenol,61522
+137,Gastrointestinal Diseases,56201
+138,"Cholesteatoma, Middle Ear",45
+139,Intraoperative Care,1579
+140,Dementia,11903571
+141,Asia,52617235
+142,Academic Medical Centers,126600
+143,Percutaneous Coronary Intervention,179436
+144,Writing,138868356
+145,Sarcoidosis,277606
+146,Pelvic Organ Prolapse,71399
+147,Publishing,34887657
+148,Heart Ventricles,2462
+149,Kaplan-Meier Estimate,931
+150,Blood Transfusion,452442
+151,Afghanistan,24251788
+152,Hospice Care,412460
+153,China,137787191
+154,Life Tables,34740
+155,Tumor Suppressor Protein p53,4325
+156,"Carcinoma, Hepatocellular",2220
+157,Follicle Stimulating Hormone,33320
+158,Virus Diseases,18687
+159,Learning Disorders,54734
+160,Dilatation,285507
+161,Fibrinogen,274971
+162,"Liver Cirrhosis, Alcoholic",169
+163,Mesopic Vision,982
+164,"Infant, Newborn",5140
+165,Fluoroscopy,145943
+166,Anti-Inflammatory Agents,66023
+167,Colon,23730375
+168,Nuclear Family,407253
+169,Depression,27399529
+170,"Ventricular Dysfunction, Left",352
+171,Interleukin-15,8246
+172,"Pregnancy Complications, Hematologic",80
+173,"Carcinoma, Signet Ring Cell",62
+174,Veterinarians,1040866
+175,"Radiography, Bitewing",5
+176,Brain Death,131471
+177,"Insurance, Health",91452
+178,Body Composition,468183
+179,Testis,376066
+180,Netherlands,20415464
+181,Alabama,19399863
+182,Insulin,7478260
+183,Transcranial Direct Current Stimulation,41554
+184,Ethanol,4203009
+185,Oxygen,16480394
+186,Cytoreduction Surgical Procedures,25
+187,Endomyocardial Fibrosis,2757
+188,"Mutation, Missense",519
+189,Subarachnoid Hemorrhage,115705
+190,Cross-Sectional Studies,75920
+191,Medicare,11279527
+192,Colorectal Neoplasms,6673
+193,"Lens, Crystalline",74
+194,Copper,15248070
+195,Breast Neoplasms,6350
+196,Volunteers,23288824
+197,Constipation,1272270
+198,Vertigo,1279538
+199,Nursing Assessment,14684
+200,Manikins,41875
+201,Nasal Septum,40620
+202,Anxiety Disorders,649701
+203,Tibial Meniscus Injuries,8
+204,"Anesthetics, Local",335
+205,Polysaccharides,374877
+206,Erythrocyte Indices,1060
+207,Patient Education as Topic,413
+208,Evidence-Based Medicine,215899
+209,"Anti-Inflammatory Agents, Non-Steroidal",693
+210,Workplace,19790428
+211,Parturition,125567
+212,Government,378606191
+213,Mortality,15278786
+214,Cholesterol,5908463
+215,Nasal Decongestants,9987
+216,Patient Readmission,2216
+217,Polyethylene Glycols,13415
+218,Viruses,8000707
+219,Minimally Invasive Surgical Procedures,8520
+220,Pneumothorax,189594
+221,Pyrimidines,37663
+222,Los Angeles,52700118
+223,Femoral Artery,104987
+224,Liver Neoplasms,2338
+225,Managed Care Programs,9681
+226,Rare Diseases,672726
+227,Professional Role,72015
+228,Capnography,37075
+229,Eczema,1047857
+230,Frail Elderly,60525
+231,Geriatric Assessment,25955
+232,Reference Values,136542
+233,"Sequence Analysis, DNA",1944
+234,Sodium Bicarbonate,223928
+235,Diabetic Angiopathies,315
+236,Humans,38153771
+237,Tongue,10802800
+238,Ohio,34424195
+239,Sutures,406957
+240,Amylases,17077
+241,"Sleep Apnea, Obstructive",631
+242,Pneumonia,4655081
+243,Breast Feeding,177391
+244,Premature Birth,202725
+245,"Pathology, Veterinary",1039
+246,Low Back Pain,510370
+247,Latin America,9481496
+248,Androstenedione,48390
+249,Interferon-gamma,66104
+250,Walking,44196456
+251,Reminder Systems,6564
+252,Cross Infection,13414
+253,Trigeminal Neuralgia,80887
+254,Warm Ischemia,6390
+255,"Serum Albumin, Bovine",493
+256,Prostate,6225635
+257,Neisseria gonorrhoeae,87199
+258,Echocardiography,611957
+259,"Education, Graduate",11037
+260,"Insurance, Pharmaceutical Services",12
+261,Operative Time,54764
+262,Quality Improvement,935511
+263,Sleep Wake Disorders,461
+264,Police,171908592
+265,Intention,24488641
+266,Immunoenzyme Techniques,586
+267,Government Programs,544347
+268,Haplotypes,347079
+269,Tissue Expansion Devices,14
+270,Granulocytes,113073
+271,Bariatric Surgery,390151
+272,Digestive System Surgical Procedures,108
+273,Autonomic Pathways,1282
+274,"Diet, Atherogenic",38
+275,Pyramidal Cells,57663
+276,Transplant Donor Site,25
+277,Manitoba,4177279
+278,Cost-Benefit Analysis,358445
+279,Prostheses and Implants,854
+280,Methadone,947235
+281,Rural Health Services,9821
+282,Swine,2237263
+283,Arsenic,1833472
+284,"Labor Stage, First",1
+285,Enterococcus,192392
+286,Euthyroid Sick Syndromes,18
+287,Pulmonary Medicine,75447
+288,Ethnic Groups,2271512
+289,Nutrition Assessment,12958
+290,Ontario,22944218
+291,"Cholecystectomy, Laparoscopic",546
+292,Beverages,5333267
+293,Cold Temperature,67490
+294,Spermatozoa,205281
+295,Risk Assessment,2853900
+296,Breast Diseases,12046
+297,Drug Utilization,30340
+298,Necrosis,1540273
+299,Clavicle,185750
+300,"Infant, Low Birth Weight",181
+301,Sexual Behavior,603611
+302,Hepatic Veins,14328
+303,Leg,108243117
+304,Blood Glucose,1194733
+305,Bone Density,397051
+306,Poliovirus Vaccines,2824
+307,Personality Inventory,53747
+308,Developing Countries,5753313
+309,Prosthesis Design,3168
+310,Social Support,1031573
+311,"Anesthesia, Spinal",513
+312,Excitatory Postsynaptic Potentials,4332
+313,Anti-Retroviral Agents,1064
+314,Feces,1132248
+315,Adrenocorticotropic Hormone,41563
+316,Outcome and Process Assessment (Health Care),42
+317,Barium Sulfate,28304
+318,"Chromatography, Liquid",1870
+319,"Hernia, Hiatal",181
+320,Choroid,346356
+321,Odds Ratio,404773
+322,India,132624525
+323,Shoulder Dislocation,23189
+324,Dental Alloys,2746
+325,Tooth Discoloration,11758
+326,Preoperative Period,8758
+327,Laminectomy,55998
+328,Tunica Intima,5164
+329,Soccer,21116912
+330,"Biofeedback, Psychology",95
+331,Fetus,2341180
+332,Head and Neck Neoplasms,1699
+333,"Neoplasms, Second Primary",210
+334,Pollen,2415733
+335,"Cholangiopancreatography, Endoscopic Retrograde",80
+336,Staphylococcus aureus,745094
+337,Meglumine,17727
+338,"History, 21st Century",779
+339,Colectomy,71374
+340,Brazil,34307481
+341,Tooth Extraction,95442
+342,Catheter Ablation,76654
+343,"Economics, Hospital",651
+344,Clinical Protocols,36736
+345,Drug Therapy,364632
+346,Poliomyelitis,147241
+347,Breast Density,63315
+348,Wet Macular Degeneration,9737
+349,Acute Disease,36464
+350,Glomerular Filtration Rate,166394
+351,"Fertility Agents, Female",14
+352,Pancreatic Neoplasms,6312
+353,Leuprolide,24638
+354,Trauma Severity Indices,107
+355,United States,196791634
+356,"Tachycardia, Ventricular",4459
+357,Pancreatitis,678613
+358,Seminiferous Tubules,34917
+359,Infant Mortality,745869
+360,Epidural Abscess,16848
+361,Patient Care Team,7835
+362,Angioplasty,379752
+363,Breast Implantation,1997
+364,Alanine Transaminase,21244
+365,Ovulation Induction,30669
+366,Self-Assessment,674957
+367,Urinalysis,174016
+368,Secondary Prevention,156760
+369,Dietary Proteins,10906
+370,Medical Record Linkage,681
+371,Caribbean Region,31708
+372,Glasgow Coma Scale,42425
+373,Immunoglobulin M,6588
+374,Postpartum Period,117633
+375,Phosphorylation,2028219
+376,Accidental Falls,12499
+377,Spinal Diseases,5112
+378,Prevalence,10421193
+379,Hypolipidemic Agents,1262
+380,"Circumcision, Male",823
+381,Urinary Bladder Diseases,126
+382,Clinical Trials as Topic,1812
+383,Jugular Veins,20044
+384,Carboplatin,193695
+385,"Hydrogel, Polyethylene Glycol Dimethacrylate",10
+386,Cysts,883180
+387,Hospitalization,2502893
+388,Combined Modality Therapy,6397
+389,Dark Adaptation,16927
+390,Decision Support Techniques,1031
+391,Kinesis,166061
+392,Abdominal Pain,866279
+393,Lung Diseases,226573
+394,Health Services Misuse,36
+395,Sports Medicine,1363846
+396,Strabismus,164996
+397,Uveal Neoplasms,121
+398,Needs Assessment,436824
+399,Hospital Mortality,61478
+400,Mucous Membrane,131209
+401,"Rats, Sprague-Dawley",1176
+402,"Range of Motion, Articular",383
+403,Drug Combinations,74235
+404,Hepatic Artery,49163
+405,Albuterol,194922
+406,Nasal Obstruction,35371
+407,Molluscum Contagiosum,23630
+408,Middle East,24623048
+409,"Receptors, Vasopressin",64
+410,Physician-Patient Relations,2804
+411,Terrorism,18685232
+412,Body Weight,2405154
+413,Acquired Immunodeficiency Syndrome,80346
+414,Patient Outcome Assessment,294
+415,Actin Cytoskeleton,113793
+416,Dizziness,1321918
+417,Freezing,5468376
+418,Octreotide,71447
+419,Neoplasm Grading,173
+420,Persistent Vegetative State,37737
+421,Pliability,46450
+422,Portal Vein,126309
+423,Budgets,7503977
+424,"Aorta, Thoracic",334
+425,Community Health Services,85449
+426,Povidone-Iodine,26200
+427,Appendicitis,375111
+428,Reproducibility of Results,11140
+429,Basal Metabolism,10669
+430,Language,124393928
+431,Nurse Clinicians,2577
+432,Heart Valve Prosthesis,3259
+433,Military Personnel,2095462
+434,Fiber Optic Technology,10425
+435,Amaurosis Fugax,3416
+436,Arthroscopy,259568
+437,Taxoids,1893
+438,"Sperm Injections, Intracytoplasmic",40
+439,Dental Caries,208131
+440,Baths,3499155
+441,Surgical Stomas,30
+442,Peroxisome Proliferator-Activated Receptors,9054
+443,Oropharyngeal Neoplasms,271
+444,"Anti-Infective Agents, Local",100
+445,Lebanon,10232979
+446,Neural Pathways,127519
+447,Elastomers,173133
+448,Medically Uninsured,3707
+449,Health Care Rationing,9761
+450,"Disease Models, Animal",2472
+451,Insulin Resistance,983589
+452,Colonoscopy,552621
+453,"Hospitals, General",4584
+454,Body Mass Index,911017
+455,"Carcinoma, Papillary",1402
+456,Hepatectomy,52547
+457,"Gait Disorders, Neurologic",59
+458,Transportation of Patients,4735
+459,Temporal Lobe,269180
+460,"Quality Assurance, Health Care",224
+461,Robotics,5698590
+462,Bicuspid,52526
+463,"Osteoarthritis, Knee",1105
+464,Lymph Node Excision,1120
+465,Choice Behavior,20477
+466,Sulfasalazine,52839
+467,DNA Virus Infections,52
+468,"Administration, Oral",1175
+469,Advertising as Topic,37
+470,Home Care Services,104243
+471,Smoking Prevention,46080
+472,"Pregnancy Complications, Neoplastic",67
+473,Femur,664887
+474,Chlorhexidine,160762
+475,"Diet, Diabetic",232
+476,Emergency Medical Services,475147
+477,"Potassium Channels, Voltage-Gated",189
+478,Foreign-Body Migration,34
+479,Platelet Count,215065
+480,Lymphocyte Count,46817
+481,Pituitary Neoplasms,886
+482,Diarrhea,2948266
+483,"Tomography, X-Ray Computed",1325
+484,"Arthritis, Rheumatoid",7126
+485,Pregnancy,18750852
+486,Cardiovascular Agents,2691
+487,Kidney Diseases,231615
+488,Tissue Plasminogen Activator,54374
+489,Cardiopulmonary Bypass,106179
+490,Thyrotropin,54620
+491,Stents,526814
+492,Informed Consent,1840020
+493,"Polymorphism, Genetic",1441
+494,"Blood Pressure Monitoring, Ambulatory",82
+495,"Purpura, Thrombocytopenic, Idiopathic",247
+496,"Pregnancy Trimester, Second",96
+497,"Rats, Inbred F344",68
+498,Antineoplastic Combined Chemotherapy Protocols,762
+499,Washington,108291693
+500,CD56 Antigen,52
+501,Synaptic Transmission,117387
+502,Leptin,545179
+503,"Dilatation, Pathologic",83
+504,"Mastectomy, Segmental",55
+505,"Diabetes, Gestational",3002
+506,Biomechanical Phenomena,665
+507,Radiation Protection,253920
+508,Device Removal,7417
+509,Adverse Drug Reaction Reporting Systems,210
+510,Reverse Transcriptase Polymerase Chain Reaction,18132
+511,Electromyography,114598
+512,Aging,14246921
+513,Visual Acuity,454082
+514,DNA,29746529
+515,Lumbosacral Region,4479
+516,Intercellular Signaling Peptides and Proteins,453
+517,Cone-Beam Computed Tomography,20198
+518,Benzalkonium Compounds,65
+519,Gastrectomy,143586
+520,Continuous Positive Airway Pressure,68707
+521,Sensitivity and Specificity,354519
+522,Tooth,12366402
+523,Bipolar Disorder,1519498
+524,Amoxapine,6761
+525,Oral Health,1382367
+526,Blood Gas Analysis,22560
+527,"Education, Medical, Graduate",200
+528,Secretin,40705
+529,Internship and Residency,70602
+530,Intra-Abdominal Fat,5408
+531,Parents,105437571
+532,Sexually Transmitted Diseases,373910
+533,Life Expectancy,2685864
+534,Interpersonal Relations,112091
+535,Prenatal Diagnosis,100785
+536,Retrospective Studies,69315
+537,Sensory Thresholds,3177
+538,Coronary Disease,101988
+539,End Stage Liver Disease,6653
+540,"Pregnancy, Animal",144
+541,"Hearing Loss, Sudden",161
+542,Indicators and Reagents,184
+543,HLA Antigens,800
+544,Mandibular Fractures,9865
+545,Carboxylic Ester Hydrolases,103
+546,Xanthomatosis,6546
+547,Cholecystitis,100025
+548,Maxilla,174981
+549,Premedication,53146
+550,"Pattern Recognition, Physiological",12
+551,Gynecologic Surgical Procedures,648
+552,Rural Population,303438
+553,Specific Pathogen-Free Organisms,60
+554,Abdominal Fat,76860
+555,Poisons,1023746
+556,Blood Group Incompatibility,1531
+557,New Jersey,23768693
+558,Feasibility Studies,300881
+559,Fertilization in Vitro,1435
+560,Abdomen,2193657
+561,"Hospitals, Psychiatric",3266
+562,"Hypertrophy, Left Ventricular",414
+563,Folic Acid,699282
+564,Tibia,478343
+565,"Models, Statistical",4690
+566,Adipose Tissue,686796
+567,Immunohistochemistry,553956
+568,Status Epilepticus,134312
+569,Causality,1247386
+570,Punctures,289699
+571,"Tuberculosis, Gastrointestinal",183
+572,"Memory, Short-Term",2282
+573,"Hepatitis, Viral, Human",89
+574,False Negative Reactions,352
+575,Radiosurgery,218159
+576,Health Care Surveys,1687
+577,Karyotyping,36107
+578,"Administration, Topical",485
+579,"Hospitals, High-Volume",11
+580,Systole,63844
+581,Affective Symptoms,10522
+582,"Neoplasms, Radiation-Induced",183
+583,Noise,29143114
+584,Body Temperature,984985
+585,Glass,64246448
+586,"Nystagmus, Physiologic",11
+587,Fetal Macrosomia,6477
+588,Time Factors,16908
+589,Anti-HIV Agents,929
+590,Injury Severity Score,23090
+591,"Statistics, Nonparametric",657
+592,Neuroimmunomodulation,5505
+593,"Echinococcosis, Hepatic",8
+594,Midwifery,964625
+595,Task Performance and Analysis,252
+596,"Dermatitis, Atopic",2299
+597,Carotid Arteries,81212
+598,Longitudinal Studies,198940
+599,DNA Probes,1554
+600,"Intensive Care Units, Neonatal",280
+601,Subclavian Steal Syndrome,1343
+602,Mammography,663415
+603,Thyroidectomy,99568
+604,Biometry,54882
+605,Health Resources,502416
+606,Triiodothyronine,56940
+607,Occupational Exposure,190991
+608,Insurance Coverage,2623605
+609,Adrenal Cortex Hormones,1121
+610,Sacrum,172445
+611,Colonic Polyps,8765
+612,Inorganic Chemicals,25260
+613,Staining and Labeling,257
+614,Birth Weight,644290
+615,Respiratory Sounds,4343
+616,Gastric Emptying,98825
+617,Hospital Bed Capacity,9697
+618,Incidence,9048188
+619,Patient Participation,45473
+620,Orthodontic Anchorage Procedures,12
+621,Manuals as Topic,10
+622,"Anemia, Sickle Cell",1439
+623,Triage,967472
+624,Essential Tremor,81842
+625,"Cholesterol, LDL",1281
+626,Women's Health,1013155
+627,Osmolar Concentration,434
+628,Cerebellar Neoplasms,113
+629,Esterification,82696
+630,Palliative Care,1495397
+631,"Homosexuality, Male",1342
+632,"Endothelium, Vascular",1019
+633,Nursing Homes,1876878
+634,"Ultrasonography, Prenatal",239
+635,Vascular Resistance,94799
+636,Mesentery,60701
+637,Hyperbaric Oxygenation,4720
+638,Tensile Strength,477042
+639,"Intubation, Gastrointestinal",167
+640,Fenofibrate,96309
+641,Polyps,528506
+642,Eosinophilia,158401
+643,Coronary Artery Disease,675392
+644,Paraffin Embedding,6925
+645,"Milk, Human",1100
+646,Sex Hormone-Binding Globulin,14750
+647,Dental Arch,31152
+648,Myocardial Ischemia,124457
+649,Risk,150103894
+650,Carotid Artery Thrombosis,1043
+651,"Monitoring, Physiologic",274
+652,Bone Plates,8844
+653,"Administration, Inhalation",271
+654,Antitussive Agents,433
+655,State Medicine,5742
+656,Biocompatible Materials,15454
+657,Solvents,1321442
+658,Recovery of Function,12091
+659,Coronary Care Units,3964
+660,Pubic Bone,37112
+661,Lymphoma,3003406
+662,"Carotid Artery, Internal",644
+663,Preventive Health Services,30128
+664,Pelvis,1073224
+665,Durapatite,131
+666,Atenolol,108463
+667,"Genital Neoplasms, Female",117
+668,Schizophrenia,3578324
+669,Microglia,575747
+670,Dyspnea,356819
+671,Adenocarcinoma,847148
+672,Pedigree,1788381
+673,Public Opinion,3921541
+674,Automobiles,3068104
+675,External Fixators,5063
+676,Heart Atria,566
+677,Retinal Hemorrhage,7712
+678,Germany,67939522
+679,Child Abuse,3373984
+680,Correction of Hearing Impairment,18
+681,Neuropsychological Tests,43143
+682,Patient Admission,10210
+683,Somatoform Disorders,22166
+684,Contrast Media,70273
+685,Ovarian Follicle,16722
+686,"Respiratory Distress Syndrome, Newborn",121
+687,Intraoperative Period,3767
+688,"Models, Educational",590
+689,Lymphatic Metastasis,6867
+690,Postoperative Complications,127471
+691,Religion and Medicine,6475
+692,Personality Disorders,344804
+693,"Receptors, Serotonin",815
+694,"Models, Theoretical",1810
+695,Tympanoplasty,15256
+696,Genotype,1743409
+697,Administrative Personnel,73816
+698,Guidelines as Topic,2663
+699,Histamine,467080
+700,Documentation,19649159
+701,Censuses,470863
+702,Multiple Organ Failure,60909
+703,Cell Movement,31850
+704,Allergens,998578
+705,"Stress, Psychological",3935
+706,Rhinoplasty,250237
+707,Intracranial Thrombosis,310
+708,Thymoma,56303
+709,"Malocclusion, Angle Class III",9
+710,Computer Simulation,281109
+711,Research,425285900
+712,Acetabulum,66266
+713,"Lipoproteins, LDL",256
+714,Randomized Controlled Trials as Topic,3138
+715,Basketball,32135070
+716,"Pregnancy, Ectopic",531
+717,New Zealand,37289636
+718,Radiotherapy Dosage,224
+719,Nutritional Status,307439
+720,"Arthroplasty, Replacement, Knee",397
+721,Skin Tests,29348
+722,Parkinson Disease,50539
+723,Eye Diseases,176091
+724,Antidepressive Agents,2263
+725,Probability,15979875
+726,Hip,23428009
+727,Tuberculoma,8249
+728,Whole Body Imaging,3434
+729,Skin Absorption,14182
+730,"Fractures, Bone",2541
+731,Femoral Neck Fractures,12139
+732,"Audiometry, Evoked Response",7
+733,Joint Instability,13345
+734,"RNA, Messenger",3062
+735,Antibody Specificity,8130
+736,Molecular Probe Techniques,44
+737,Respiratory System,356318
+738,Program Evaluation,319748
+739,Prosthesis Implantation,6475
+740,Demography,892777
+741,Pediatrics,3550331
+742,Switzerland,16753466
+743,Thoracotomy,78528
+744,Pharmacies,2376339
+745,"Reagent Kits, Diagnostic",115
+746,Life Style,498176
+747,Point-of-Care Systems,1150
+748,Teaching,60943969
+749,Tyrosine,1189112
+750,Imitative Behavior,2742
+751,Mutation,6204876
+752,"Electrocardiography, Ambulatory",91
+753,Guinea Pigs,526436
+754,Trigeminal Nerve,82691
+755,"Carcinoma, Non-Small-Cell Lung",809
+756,Peritoneal Neoplasms,374
+757,Drug Costs,239380
+758,Hospital Units,25900
+759,Esophageal Atresia,17334
+760,Reading,115226108
+761,Observer Variation,1569
+762,Morbidity,2428715
+763,Adhesives,870774
+764,Antitubercular Agents,1994
+765,"Mossy Fibers, Hippocampal",14
+766,Dietary Fiber,356107
+767,Open Fracture Reduction,75
+768,Bone Marrow,2500433
+769,Exercise,47276006
+770,Metabolic Diseases,190674
+771,Radiotherapy,1521678
+772,Health Services Accessibility,1565
+773,Sperm Count,140615
+774,Noninvasive Ventilation,24034
+775,Alphapapillomavirus,404
+776,"Analgesia, Epidural",232
+777,Head Protective Devices,116
+778,Pelvic Pain,188928
+779,Pregnancy Complications,109132
+780,Mitochondria,1546201
+781,Drug Prescriptions,24283
+782,"Child, Preschool",7227
+783,Kentucky,17166077
+784,Retinal Diseases,63800
+785,Health Personnel,135771
+786,Head-Down Tilt,2417
+787,Algorithms,12138801
+788,Postoperative Care,35319
+789,Heart Valve Prosthesis Implantation,93
+790,Computer-Aided Design,134768
+791,Refractive Errors,49620
+792,Fecal Incontinence,46125
+793,Renal Dialysis,41116
+794,Supine Position,92720
+795,Hip Joint,217888
+796,Multilingualism,230175
+797,Extremities,923763
+798,Muscle Spasticity,15168
+799,"Chromatography, High Pressure Liquid",878
+800,Nasopharyngeal Neoplasms,221
+801,Forecasting,3762412
+802,Cyclophosphamide,345113
+803,"Hospitals, Private",15495
+804,Turkey,31242481
+805,Adrenergic beta-Antagonists,252
+806,Cushing Syndrome,4768
+807,Glucose Tolerance Test,77239
+808,Locomotion,665485
+809,Pancreatic Juice,16119
+810,"Radiotherapy, Conformal",35
+811,"Lasers, Solid-State",502
+812,Intestinal Neoplasms,657
+813,Arthrodesis,57300
+814,Knee Prosthesis,9144
+815,Empathy,7012424
+816,Competitive Behavior,11967
+817,Syncope,291092
+818,"Immunity, Cellular",756
+819,Skin Temperature,92435
+820,Spain,34382182
+821,GB virus C,1758
+822,England,91735729
+823,Stromal Cells,233021
+824,Erythrocytes,304487
+825,Polysomnography,62431
+826,Severity of Illness Index,2510
+827,Activities of Daily Living,304717
+828,Balloon Occlusion,12177
+829,Urticaria,290843
+830,Organ Preservation,17211
+831,Radiation Injuries,6644
+832,"Accidents, Traffic",5259
+833,Photography,28104698
+834,Behavior,65400152
+835,Fires,13283651
+836,"Spectrometry, X-Ray Emission",34
+837,Choledocholithiasis,13942
+838,Language Development Disorders,427
+839,Pharynx,202160
+840,Central Venous Pressure,25570
+841,Insulin Antibodies,2403
+842,"Anesthetics, Inhalation",147
+843,Osteonecrosis,111344
+844,"Rats, Wistar",1234
+845,"Radiography, Thoracic",99
+846,"Students, Dental",1492
+847,Meningitis,1366359
+848,"Image Processing, Computer-Assisted",1036
+849,Liver Cirrhosis,168038
+850,Denmark,11622462
+851,Cryptorchidism,41586
+852,"Shock, Cardiogenic",363
+853,Thymus Neoplasms,124
+854,Resource Allocation,565631
+855,Hysteroscopy,65804
+856,Steroids,3331609
+857,Hospital Administration,91239
+858,Obesity,8912015
+859,Joint Dislocations,6922
+860,"Vena Cava, Inferior",408
+861,"Malocclusion, Angle Class II",14
+862,Perinatal Care,32351
+863,Ventriculoperitoneal Shunt,11785
+864,Sympathomimetics,29734
+865,Emergencies,4283698
+866,"Peer Review, Health Care",64
+867,Staff Development,343493
+868,Dermatologic Surgical Procedures,165
+869,Mass Casualty Incidents,12088
+870,Mental Disorders,1133575
+871,Life Change Events,507
+872,"Diabetes Mellitus, Type 2",3324
+873,Irritable Bowel Syndrome,400683
+874,"Antineoplastic Agents, Hormonal",111
+875,"Urinary Bladder, Overactive",84
+876,Color,106637904
+877,Rectum,557653
+878,Interrupted Time Series Analysis,7543
+879,Self Efficacy,20628
+880,Case-Control Studies,106050
+881,"Cartilage, Articular",418
+882,Compact Disks,16654
+883,Nickel,6363110
+884,Plant Leaves,66133
+885,Human Growth Hormone,176468
+886,Fluorouracil,84909
+887,"Echocardiography, Transesophageal",610
+888,"Constriction, Pathologic",219
+889,"Carcinoma, Squamous Cell",5933
+890,Bacteremia,233695
+891,Cell Wall,607550
+892,Neuroendocrine Tumors,94375
+893,Touch,88509026
+894,"Receptors, Dopamine D2",101
+895,Athletic Injuries,26065
+896,Healthcare Disparities,34074
+897,Philadelphia,26143424
+898,Diagnostic and Statistical Manual of Mental Disorders,196467
+899,Health Care Costs,774751
+900,Mobility Limitation,4592
+901,Turbinates,23779
+902,Linear Models,231389
+903,"Education, Medical, Undergraduate",163
+904,Australia,94015972
+905,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1085
+906,ROC Curve,6428
+907,Cough,7474451
+908,Baltimore,15648478
+909,Linkage Disequilibrium,86224
+910,Sweetening Agents,7853
+911,Complement Factor H,1412
+912,"Neoplasms, Glandular and Epithelial",172
+913,Substance-Related Disorders,10359
+914,Insulin Infusion Systems,132
+915,Motion Pictures,1188230
+916,Fever,12637835
+917,Nitrous Oxide,550294
+918,Neurodegenerative Diseases,546486
+919,Anticoagulants,279396
+920,Sex Determination Analysis,61
+921,"Monitoring, Ambulatory",466
+922,"Cardiology Service, Hospital",51
+923,Titanium,3156087
+924,"Radiographic Image Interpretation, Computer-Assisted",47
+925,Surveys and Questionnaires,19381
+926,Saudi Arabia,14076260
+927,Non-ST Elevated Myocardial Infarction,68
+928,Endosonography,5327
+929,Nova Scotia,3686191
+930,"Analgesia, Patient-Controlled",85
+931,Heart Transplantation,87128
+932,Epinephrine,466034
+933,Precancerous Conditions,5843
+934,"Pregnancy, Twin",187
+935,Frozen Sections,29565
+936,Spinal Fusion,116735
+937,Spinal Cord Diseases,2375
+938,Acute Coronary Syndrome,186080
+939,Africa,92011992
+940,Benign Paroxysmal Positional Vertigo,16179
+941,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",194
+942,Ureter,378523
+943,Physical Examination,643824
+944,Qualitative Research,819677
+945,"Quality Indicators, Health Care",163
+946,Giant Cell Arteritis,40334
+947,Muscle Strength,376949
+948,Atracurium,15256
+949,Environmental Monitoring,337748
+950,"Antiretroviral Therapy, Highly Active",338
+951,Autoimmune Diseases,622911
+952,Laparotomy,147307
+953,"Signal Processing, Computer-Assisted",220
+954,Kidney,9910732
+955,North America,21637865
+956,Drug Administration Schedule,973
+957,Gadolinium DTPA,192
+958,"Mice, Inbred BALB C",1073
+959,"Pattern Recognition, Automated",127
+960,Postoperative Hemorrhage,3393
+961,Child Language,56819
+962,Escherichia coli,1175806
+963,von Willebrand Factor,6644
+964,Hormone Replacement Therapy,249415
+965,Penile Diseases,90
+966,Interleukin-8,43261
+967,"Receptors, Progesterone",1186
+968,Shoulder Joint,124117
+969,Pregnancy Outcome,62447
+970,Health Status,1125646
+971,Confounding Factors (Epidemiology),22
+972,Nigeria,23019855
+973,Contusions,92731
+974,Heart Failure,3100305
+975,Snake Bites,69055
+976,Anticonvulsants,101838
+977,Intracranial Aneurysm,18844
+978,Neuroendoscopes,321
+979,Carbon Dioxide,6083351
+980,Dietary Supplements,764840
+981,Hyperlipidemias,2906
+982,Libido,692529
+983,Laryngeal Masks,953
+984,Fistula,642257
+985,Neuromuscular Agents,244
+986,Government Agencies,3995718
+987,gamma-Glutamyltransferase,8152
+988,"Radiography, Interventional",66
+989,Social Security,10938980
+990,Continuity of Patient Care,4090
+991,Lower Urinary Tract Symptoms,44624
+992,Neural Inhibition,2175
+993,Epirubicin,42081
+994,Tobacco Industry,513424
+995,"Osteoarthritis, Hip",717
+996,Second-Look Surgery,1367
+997,Drug Packaging,10434
+998,Peptidyl-Dipeptidase A,176
+999,Patient Care Management,5335
+1000,Triglycerides,657994
+1001,Bone Screws,14939
+1002,Commerce,22762753
+1003,Medical Oncology,324976
+1004,Ultrasonography,416622
+1005,Growth Hormone,673901
+1006,Travel,156689046
+1007,Hemostatics,1316
+1008,Periodicity,433091
+1009,Interviews as Topic,689
+1010,Evaluation Studies as Topic,279
+1011,Thrombocytopenia,544170
+1012,Psychotic Disorders,111529
+1013,Alberta,10379436
+1014,Oxygen Inhalation Therapy,263
+1015,Luteal Phase,66653
+1016,Aortic Valve,373021
+1017,Liver Diseases,228733
+1018,Hypotension,727182
+1019,beta-Endorphin,14572
+1020,Arm,74860060
+1021,Nuchal Translucency Measurement,1167
+1022,Critical Care,1731287
+1023,Sex Factors,3125
+1024,Education of Intellectually Disabled,781
+1025,Spinal Cord Compression,36038
+1026,Ischemia,1099930
+1027,Early Detection of Cancer,26683
+1028,"Receptor, ErbB-2",151
+1029,Prenatal Care,316804
+1030,"Pancreatitis, Chronic",1212
+1031,Carotid Stenosis,30771
+1032,Adolescent,5672827
+1033,Hypoglycemia,579103
+1034,Drug Delivery Systems,128216
+1035,Wounds and Injuries,11339
+1036,Enzyme-Linked Immunosorbent Assay,148960
+1037,Sputum,418102
+1038,"Infant, Very Low Birth Weight",147
+1039,Diabetes Mellitus,1450538
+1040,"Depressive Disorder, Major",890
+1041,Psychometrics,101419
+1042,Pancreatic Fistula,7711
+1043,Vitamin D,1100976
+1044,Insurance Benefits,345272
+1045,Emergency Treatment,175732
+1046,"Endarterectomy, Carotid",418
+1047,Deglutition Disorders,417
+1048,False Positive Reactions,2701
+1049,"Aortic Aneurysm, Abdominal",237
+1050,"DNA, Viral",703
+1051,Resuscitation,1034803
+1052,Scapula,203164
+1053,Apoptosis,3010781
+1054,Ophthalmoscopy,29254
+1055,Urban Health Services,900
+1056,Multivariate Analysis,342641
+1057,Nasal Cavity,168724
+1058,"Personnel Administration, Hospital",12
+1059,"Ligaments, Articular",161
+1060,Arterial Occlusive Diseases,706
+1061,Drug Interactions,453122
+1062,Emergency Nursing,31312
+1063,Constriction,357745
+1064,Disease-Free Survival,115453
+1065,Crotalus,23214
+1066,Sports,105924819
+1067,"Microscopy, Electron",5884
+1068,"Chemoembolization, Therapeutic",22
+1069,Workload,3055232
+1070,Geographic Information Systems,214813
+1071,"Genes, abl",7
+1072,Viral Load,542904
+1073,Abdominal Injuries,17209
+1074,Galvanic Skin Response,17554
+1075,Remote Consultation,14592
+1076,Socioeconomic Factors,120924
+1077,Hypertension,4802934
+1078,Muscle Contraction,174370
+1079,Hydrocortisone,163989
+1080,"Goiter, Nodular",90
+1081,Cost of Illness,10653
+1082,Disease Progression,777441
+1083,Respiration,1341884
+1084,Esophagus,830874
+1085,Health Manpower,9617
+1086,Israel,80579062
+1087,British Columbia,7579014
+1088,Placebos,154818
+1089,Pulmonary Ventilation,8218
+1090,Midazolam,251209
+1091,"Kidney Failure, Chronic",1318
+1092,Maze Learning,2937
+1093,Prosthesis Failure,1010
+1094,Neuronal Plasticity,25673
+1095,"Antigens, Plant",16
+1096,Serum Albumin,257741
+1097,"Adaptation, Psychological",689
+1098,Communicable Diseases,381783
+1099,Cochlea,222804
+1100,Syringes,594123
+1101,Magnetic Resonance Angiography,26521
+1102,Ambulatory Surgical Procedures,720
+1103,Thyroxine,146221
+1104,Medicine,73995764
+1105,Psychomotor Agitation,10127
+1106,First Aid,2437949
+1107,Lactic Acid,576158
+1108,World Health Organization,4265748
+1109,Friction,4899058
+1110,Anterior Chamber,101847
+1111,"Neovascularization, Physiologic",154
+1112,Orthodontic Appliance Design,47
+1113,Sheep,11620051
+1114,Allied Health Personnel,4723
+1115,Health Education,1375785
+1116,"Analgesia, Obstetrical",79
+1117,Stomach Neoplasms,765
+1118,Taxes,33095560
+1119,"Tomography, Emission-Computed",346
+1120,Cancer Care Facilities,1698
+1121,Nurse Practitioners,448050
+1122,"Adenocarcinoma, Mucinous",493
+1123,Surgical Instruments,161108
+1124,Fluoroimmunoassay,1711
+1125,"Imaging, Three-Dimensional",692
+1126,Interleukin-6,174421
+1127,Cecal Neoplasms,14
+1128,Neck Pain,473657
+1129,"Ultrasonography, Doppler, Transcranial",96
+1130,Telemedicine,1385536
+1131,Hemodynamics,149961
+1132,Hypoalbuminemia,35699
+1133,Patient Access to Records,2853
+1134,Anterior Cruciate Ligament Injuries,7626
+1135,Dietary Carbohydrates,10046
+1136,Catheter-Related Infections,6936
+1137,HIV,22996409
+1138,"Ultrasonography, Doppler, Pulsed",3
+1139,Twins,8800515
+1140,Anorexia,938417
+1141,Logistic Models,15659
+1142,Esophagitis,145181
+1143,Radiography,498074
+1144,Odontometry,275
+1145,Japan,64240183
+1146,Office Visits,148777
+1147,San Francisco,34853928
+1148,"Infant, Premature",769
+1149,Sweden,17764705
+1150,Geriatric Nursing,15640
+1151,Ligation,432258
+1152,Kenya,14082975
+1153,Counseling,10802609
+1154,Nose,15879392
+1155,Sleep Initiation and Maintenance Disorders,883
+1156,Humerus,270291
+1157,Venous Thrombosis,163942
+1158,"Pregnancy, Unplanned",995
+1159,Diabetes Complications,52301
+1160,Spinal Cord Injuries,243320
+1161,Awareness,36602740
+1162,ST Elevation Myocardial Infarction,2021
+1163,"Sterilization, Tubal",201
+1164,"Injections, Intra-Articular",87
+1165,Age of Onset,143145
+1166,Urological Agents,42
+1167,In Situ Nick-End Labeling,138
+1168,Specialization,2717981
+1169,Protective Devices,59196
+1170,Occupations,3623882
+1171,Thoracic Wall,10992
+1172,Thoracic Injuries,3936
+1173,"Chromatography, Affinity",902
+1174,Quality of Life,8619902
+1175,Pulmonary Valve Insufficiency,351
+1176,Pulmonary Surfactants,836
+1177,Diastole,56445
+1178,Craniotomy,89174
+1179,Cognition Disorders,1849
+1180,Neurotoxins,110552
+1181,"Lasers, Semiconductor",578
+1182,Physical Endurance,55634
+1183,Patient Satisfaction,386971
+1184,"Monitoring, Intraoperative",128
+1185,Physician's Role,5141
+1186,"Hematoma, Epidural, Spinal",7
+1187,Truth Disclosure,418
+1188,Lipase,308726
+1189,Tobacco Products,1069732
+1190,Paclitaxel,438817
+1191,Hazardous Substances,454194
+1192,Kidney Neoplasms,754
+1193,"Audiometry, Pure-Tone",43
+1194,Glycated Hemoglobin A,502
+1195,Weight-Bearing,131561
+1196,Public Health Practice,95566
+1197,Neck Dissection,40097
+1198,Staphylococcus epidermidis,49162
+1199,Endothelin-1,50929
+1200,"Analgesics, Opioid",587
+1201,"Ossification, Heterotopic",34
+1202,Victoria,23885043
+1203,Sickness Impact Profile,3236
+1204,Carcinoma,3934260
+1205,Bupivacaine,151044
+1206,"Tomography, Emission-Computed, Single-Photon",194
+1207,Delivery of Health Care,75587
+1208,Intestines,992091
+1209,Aspartate Aminotransferases,1388
+1210,Mammaplasty,6964
+1211,Up-Regulation,243232
+1212,Mitral Valve,296508
+1213,Nonprescription Drugs,17562
+1214,"Liver Diseases, Alcoholic",114
+1215,"Obesity, Morbid",538
+1216,"Tuberculosis, Meningeal",44
+1217,Health Services for the Aged,182
+1218,Proliferating Cell Nuclear Antigen,18647
+1219,Colonic Neoplasms,2157
+1220,Uterine Cervical Neoplasms,618
+1221,Hypertrophy,600094
+1222,"Receptors, Somatostatin",121
+1223,Papillomavirus Infections,5813
+1224,Suicide,23840493
+1225,Computational Biology,360498
+1226,Depressive Disorder,551884
+1227,National Health Programs,4827
+1228,Androsterone,10177
+1229,Fear,80867133
+1230,Safety Management,465438
+1231,Margins of Excision,491
+1232,Immunoglobulins,159395
+1233,Racquet Sports,37843
+1234,"Medical Records Systems, Computerized",201
+1235,Brachytherapy,220554
+1236,Markov Chains,21573
+1237,Anti-Asthmatic Agents,334
+1238,"Catheters, Indwelling",138
+1239,"Ischemic Attack, Transient",367
+1240,Cardiopulmonary Resuscitation,152196
+1241,C-Peptide,9329
+1242,"Anatomy, Cross-Sectional",36
+1243,"RNA, Neoplasm",67
+1244,Affect,75144111
+1245,Regional Medical Programs,730
+1246,Morphine,1289459
+1247,Miniaturization,195464
+1248,"Hospitals, Group Practice",21
+1249,Reimbursement Mechanisms,3463
+1250,"Receptors, GABA-A",130
+1251,Rectal Neoplasms,537
+1252,Cognition,3552244
+1253,Anterior Cruciate Ligament,208706
+1254,Sarcoma,888549
+1255,Organometallic Compounds,20381
+1256,Mitoxantrone,50556
+1257,Infant,10691522
+1258,Rats,8706649
+1259,Nomograms,23032
+1260,Thailand,14397804
+1261,Narcotics,2205788
+1262,"Hernia, Diaphragmatic",104
+1263,Pregnant Women,3492784
+1264,Phenanthrenes,1791
+1265,Chorionic Villi Sampling,1183
+1266,Waiting Lists,399872
+1267,Epilepsy,3436125
+1268,Stroke Volume,65416
+1269,"Sphincterotomy, Endoscopic",33
+1270,Atrial Fibrillation,955355
+1271,Electrocardiography,76814
+1272,Prone Position,109550
+1273,Bezafibrate,9895
+1274,Epidemiologic Methods,9673
+1275,"Biopsy, Needle",358
+1276,"Carcinoma, Intraductal, Noninfiltrating",63
+1277,Blood Pressure,7251741
+1278,Coronary Artery Bypass,226857
+1279,Medicaid,9219677
+1280,Tolonium Chloride,225
+1281,Follicular Phase,30421
+1282,Income,78469433
+1283,Cholecystectomy,175646
+1284,"Coated Materials, Biocompatible",35
+1285,Andropause,27924
+1286,United Kingdom,23800917
+1287,Tibial Fractures,9747
+1288,Venous Pressure,61891
+1289,Iodized Oil,2765
+1290,Statistics as Topic,511
+1291,"Arrhythmias, Cardiac",2970
+1292,"Death, Sudden, Cardiac",347
+1293,Respiratory Tract Fistula,29
+1294,Neoplasm Proteins,745
+1295,Nurses' Aides,2192
+1296,Social Behavior,427958
+1297,"Education, Medical, Continuing",79
+1298,Europe,115138765
+1299,Diffusion Magnetic Resonance Imaging,2917
+1300,"Sexual Dysfunctions, Psychological",68
+1301,Magnetic Resonance Imaging,1110005
+1302,Otolithic Membrane,1068
+1303,Oncology Nursing,52441
+1304,Kidney Transplantation,137401
+1305,Lymphedema,273737
+1306,Pulsatile Flow,11909
+1307,Random Allocation,22553
+1308,Computer Systems,1506719
+1309,Hispanic Americans,108276
+1310,Thinness,205647
+1311,"Surgical Procedures, Operative",1370
+1312,Radiopharmaceuticals,94876
+1313,Androgens,220872
+1314,Cerebrospinal Fluid,471774
+1315,"Neoplasms, Multiple Primary",67
+1316,Orthopedic Procedures,16134
+1317,Veterans,25578329
+1318,Fetal Diseases,806
+1319,Health Promotion,1240188
+1320,Microsatellite Repeats,2512
+1321,Urban Population,337582
+1322,African Continental Ancestry Group,389
+1323,Wound Healing,657446
+1324,Heart,160725585
+1325,Chromones,2023
+1326,Endometrium,243711
+1327,DNA Helicases,399
+1328,"History, Ancient",30333
+1329,Solutions,81600927
+1330,Mandelic Acids,602
+1331,Pediatric Obesity,23864
+1332,Sulfones,9667
+1333,Patient Safety,1562367
+1334,Self Disclosure,6212
+1335,Stroke,14950552
+1336,Child Mortality,282269
+1337,Cytokines,1908033
+1338,Patient Discharge Summaries,572
+1339,Superoxides,6666
+1340,Fasting,3404708
+1341,Sterilization Reversal,1002
+1342,Dopamine,2088933
+1343,Intestinal Absorption,43375
+1344,Tetralogy of Fallot,23269
+1345,Diet Records,3716
+1346,"Anesthesia, Obstetrical",132
+1347,Intercellular Adhesion Molecule-1,18536
+1348,"Emergency Service, Hospital",768
+1349,"Dental Implantation, Endosseous",32
+1350,"Leukemia, Myeloid",2081
+1351,"Diabetes Mellitus, Type 1",1670
+1352,Pamphlets,1417276
+1353,Drug-Eluting Stents,45616
+1354,Child Behavior,60964
+1355,Cyanoacrylates,6214
+1356,Amides,98611
+1357,Neurons,6656538
+1358,Leadership,80718965
+1359,"Delivery, Obstetric",654
+1360,Cooperative Behavior,31372
+1361,Catheters,510256
+1362,"Pain, Postoperative",1551
+1363,Cell Proliferation,920702
+1364,Spouses,3705849
+1365,Pre-Eclampsia,166717
+1366,Cervix Uteri,8333
+1367,Diabetic Retinopathy,363723
+1368,Nutritional Sciences,104398
+1369,Neurologic Examination,22877
+1370,"Ultrasonography, Doppler, Duplex",17
+1371,Aged,22929555
+1372,Heart Rate,2935032
+1373,Angina Pectoris,98190
+1374,Employment,49693965
+1375,Clinical Competence,31202
+1376,Ilium,77764
+1377,Endometrial Neoplasms,714
+1378,Statistical Distributions,23909
+1379,Tooth Crown,9064
+1380,Capillaries,456864
+1381,Endometriosis,953527
+1382,Suture Techniques,2635
+1383,Bone Wires,238
+1384,"Injections, Intramuscular",215
+1385,Hemorrhage,1433925
+1386,Iceland,9272920
+1387,Melanoma,2366174
+1388,"Financing, Personal",610
+1389,Homes for the Aged,17773
+1390,Cervical Vertebrae,60817
+1391,"Nose Deformities, Acquired",11
+1392,Software,104608299
+1393,"Hematoma, Subdural",553
+1394,Autoantibodies,349578
+1395,Double-Blind Method,3881
+1396,Cyclooxygenase 2 Inhibitors,838
+1397,Recurrence,2860877
+1398,"Endoscopy, Gastrointestinal",375
+1399,Karnofsky Performance Status,3963
+1400,Non-alcoholic Fatty Liver Disease,90339
+1401,Membrane Proteins,246208
+1402,Suture Anchors,7043
+1403,Parent-Child Relations,19788
+1404,Cardiac Surgical Procedures,4361
+1405,"Genes, erbB-1",5
+1406,Overweight,3368042
+1407,Learning,122884777
+1408,Coloring Agents,21473
+1409,HIV-2,61932
+1410,Antibiotic Prophylaxis,61615
+1411,Bronchi,361974
+1412,Chlorides,121400
+1413,Disabled Persons,289070
+1414,Myocardial Infarction,1362480
+1415,Proto-Oncogene Proteins c-kit,72
+1416,Colonic Diseases,1273
+1417,Motor Activity,81823
+1418,"Anastomosis, Surgical",90
+1419,Peripheral Nerve Injuries,8188
+1420,Temporomandibular Joint Disc,1256
+1421,Transforming Growth Factor beta1,2791
+1422,Longitudinal Ligaments,1762
+1423,Embolism,617521
+1424,Michigan,37365711
+1425,"Polymorphism, Single Nucleotide",2547
+1426,Alcoholism,2016313
+1427,"Immunity, Innate",1646
+1428,Cardiology,2457290
+1429,Videotape Recording,4449
+1430,Social Work,4770730
+1431,Hodgkin Disease,1530
+1432,Knee Injuries,159210
+1433,"Angioplasty, Balloon, Coronary",215
+1434,Cataract,1883552
+1435,Blast Injuries,16919
+1436,Plasminogen Activator Inhibitor 1,4208
+1437,"Radiotherapy Planning, Computer-Assisted",57
+1438,Motivation,12858175
+1439,"Diagnostic Tests, Routine",201
+1440,Myometrium,48634
+1441,Testicular Hydrocele,275
+1442,"Hospitals, Voluntary",599
+1443,"Radiotherapy, Image-Guided",135
+1444,"Food, Fortified",614
+1445,Dissociative Disorders,40925
+1446,"Thrombocytopenia, Neonatal Alloimmune",45
+1447,Telephone,19722520
+1448,Albuminuria,95278
+1449,Spinal Cord,2979171
+1450,Blood Flow Velocity,20962
+1451,Family Practice,401665
+1452,"Chemotherapy, Adjuvant",649
+1453,Myocardial Revascularization,12742
+1454,Maternal Age,149045
+1455,"Antibodies, Antiphospholipid",176
+1456,Policy Making,655560
+1457,Testosterone,3339245
+1458,"Electrophysiologic Techniques, Cardiac",18
+1459,HIV-1,1188885
+1460,Health Services Research,333765
+1461,"Receptors, Adrenergic, beta",114
+1462,Blood Glucose Self-Monitoring,1314
+1463,Myoclonus,90256
+1464,"Physicians, Women",749
+1465,Middle Aged,505069
+1466,Risk Management,5383090
+1467,Vesicular Transport Proteins,422
+1468,Enoxaparin,67516
+1469,Pupil,4305798
+1470,Vaccination,12889074
+1471,Vascular Surgical Procedures,1203
+1472,Feeding Behavior,70835
+1473,Air Ambulances,40227
+1474,Pain,93579366
+1475,Esophageal and Gastric Varices,685
+1476,Immunoglobulin G,16280
+1477,Anthropometry,67315
+1478,"DNA, Plant",164
+1479,Hippocampus,1140006
+1480,"Administration, Cutaneous",74
+1481,Brain Concussion,6092
+1482,Bone Marrow Transplantation,154612
+1483,Professional-Patient Relations,454
+1484,Dyslipidemias,11310
+1485,Cattle,11166451
+1486,Maxillary Diseases,33
+1487,Brain,68931681
+1488,Biomarkers,2469591
+1489,Paresthesia,83906
+1490,Neonatal Screening,19379
+1491,Placenta,1045037
+1492,"Hepatitis, Chronic",2144
+1493,Alcohol-Related Disorders,4379
+1494,Curriculum,18466820
+1495,Risk Factors,5756007
+1496,Cell Division,554171
+1497,"Angioplasty, Balloon",410
+1498,Zeolites,128849
+1499,Vesico-Ureteral Reflux,985
+1500,Ghana,10328291
+1501,Africa South of the Sahara,7130
+1502,Confidentiality,4870442
+1503,"Education, Special",38562
+1504,"Hospitals, Public",19409
+1505,Osteomyelitis,202375
+1506,Recommended Dietary Allowances,13140
+1507,Clinical Clerkship,6252
+1508,K562 Cells,772
+1509,Sorbitol,165575
+1510,Bilirubin,442437
+1511,"Neoplasms, Unknown Primary",152
+1512,Inflammatory Bowel Diseases,84453
+1513,Animal Assisted Therapy,11840
+1514,Running,109677998
+1515,Imatinib Mesylate,45031
+1516,Bed Occupancy,35699
+1517,Cell Phone,6080784
+1518,DNA Mutational Analysis,723
+1519,Albumins,28325
+1520,Breast Implants,293852
+1521,Acclimatization,136499
+1522,Torque,5476636
+1523,Oxidative Stress,1607802
+1524,Sotalol,31767
+1525,Pituitary Gland,278974
+1526,Personnel Staffing and Scheduling,88
+1527,Bone and Bones,1155
+1528,Government Regulation,502475
+1529,Pericardium,105667
+1530,Organoplatinum Compounds,126
+1531,Records as Topic,14
+1532,Immunoglobulin E,7301
+1533,Diagnosis-Related Groups,6589
+1534,Apgar Score,5937
+1535,Patient Selection,103927
+1536,Transforming Growth Factor beta,34948
+1537,Androgen Antagonists,424
+1538,Refusal to Participate,41933
+1539,"Neoplasm Recurrence, Local",678
+1540,Neutrophils,733580
+1541,Quality of Health Care,96011
+1542,Immunoassay,263386
+1543,African Americans,4218838
+1544,Posture,4216150
+1545,Biofilms,492539
+1546,Neoplasm Staging,945
+1547,Transfer (Psychology),13
+1548,Cerebral Hemorrhage,71405
+1549,Uterine Neoplasms,999
+1550,"Lupus Erythematosus, Systemic",2096
+1551,"Infant, Extremely Low Birth Weight",46
+1552,Tissue Expansion,12822
+1553,Radionuclide Imaging,7481
+1554,Nephrectomy,144380
+1555,Calibration,3759612
+1556,Time and Motion Studies,5239
+1557,Benzamides,3589
+1558,DNA Transposable Elements,224
+1559,Pubic Symphysis,20241
+1560,Patients,145010375
+1561,Vitiligo,293055
+1562,Temporomandibular Joint Disorders,6848
+1563,Catholicism,2623552
+1564,Isoflurane,148015
+1565,Texas,81545832
+1566,"Hypersensitivity, Immediate",134
+1567,"Dose-Response Relationship, Drug",2291
+1568,Chordae Tendineae,7574
+1569,Orthodontic Wires,2552
+1570,Linguistics,3834004
+1571,Tumor Necrosis Factor-alpha,59508
+1572,Respiratory Tract Infections,180536
+1573,Substance Withdrawal Syndrome,217
+1574,Patient Acceptance of Health Care,699
+1575,"Heart Defects, Congenital",497
+1576,Referral and Consultation,2479
+1577,Guideline Adherence,10692
+1578,"Respiratory Distress Syndrome, Adult",363
+1579,Medical Errors,211220
+1580,"Carcinoma, Renal Cell",1404
+1581,Phlebitis,44664
+1582,"Tuberculosis, Pulmonary",1034
+1583,Certification,19108493
+1584,Ascomycota,26986
+1585,"Hair Cells, Auditory, Outer",16
+1586,"Education, Distance",5703
+1587,"Antibodies, Bacterial",444
+1588,Aortic Valve Stenosis,16335
+1589,Tinnitus,1122388
+1590,Vinblastine,54863
+1591,Adult,87887487
+1592,Urology,1225335
+1593,Quality-Adjusted Life Years,19190
+1594,Female,63500287
+1595,"Biopsy, Fine-Needle",263
+1596,Lymph Nodes,1073371
+1597,Caregivers,4657577
+1598,Cohort Studies,301949
+1599,Family,367831021
+1600,Quebec,9259621
+1601,"Colitis, Ulcerative",1905
+1602,Digoxin,243650
+1603,Obsessive-Compulsive Disorder,236054
+1604,Macrophages,1868632
+1605,Subtraction Technique,3398
+1606,"Administration, Intravenous",746
+1607,Illinois,29534254
+1608,Body Dysmorphic Disorders,917
+1609,Child Health Services,37682
+1610,Hip Prosthesis,10524
+1611,"Wounds, Penetrating",102
+1612,Prostatic Neoplasms,1974
+1613,Maternal Mortality,567519
+1614,"Epilepsy, Temporal Lobe",225
+1615,Consciousness Disorders,1416
+1616,Cell Death,1475803
+1617,Patient Compliance,75618
+1618,"Models, Animal",8378
+1619,Estradiol,519734
+1620,"Ultrasonography, Doppler",339
+1621,"Outpatient Clinics, Hospital",379
+1622,Regression Analysis,786771
+1623,Drainage,5187565
+1624,Gastroesophageal Reflux,180584
+1625,Terminal Care,10619
+1626,Bronchial Hyperreactivity,4970
+1627,alpha-Crystallin B Chain,9
+1628,Perfusion,918802
+1629,Cisplatin,701370
+1630,Prostate-Specific Antigen,90307
+1631,Ossification of Posterior Longitudinal Ligament,541
+1632,Cholangitis,132472
+1633,Atherosclerosis,1140927
+1634,Protein Biosynthesis,18087
+1635,Multiple Trauma,15646
+1636,Image Enhancement,54612
+1637,"Hospitals, Veterans",1219
+1638,Lipids,1421762
+1639,Urinary Incontinence,308474
+1640,"Anesthesia, General",1097
+1641,Oxygen Consumption,191671
+1642,Alcohol Drinking,55018
+1643,"Health Knowledge, Attitudes, Practice",1083
+1644,Disability Evaluation,16182
+1645,Hydrogen-Ion Concentration,2375
+1646,Cardiac Output,215499
+1647,Esophageal Neoplasms,1074
+1648,Weight Gain,1709729
+1649,Intelligence Tests,56912
+1650,Infertility,2097515
+1651,Hormone Antagonists,3474
+1652,Crohn Disease,6886
+1653,Treatment Failure,149087
+1654,Intensive Care Units,358172
+1655,Portugal,11854275
+1656,Organ Sparing Treatments,33
+1657,Adenomatous Polyposis Coli,14239
+1658,Public Health,28699418
+1659,"Catheterization, Central Venous",225
+1660,Bandages,675653
+1661,Esophagoscopy,7111
+1662,"Decompression, Surgical",150
+1663,Length of Stay,546955
+1664,Survivors,13009924
+1665,Military Dentistry,283
+1666,Spondylolysis,17263
+1667,Proportional Hazards Models,29290
+1668,Prednisolone,273726
+1669,Celiac Disease,648355
+1670,"Students, Medical",12853
+1671,Canada,108027853
+1672,Penile Neoplasms,191
+1673,Intestinal Perforation,15380
+1674,"Antineoplastic Agents, Phytogenic",155
+1675,Doxorubicin,435783
+1676,Ovarian Neoplasms,7057
+1677,Vulnerable Populations,735952
+1678,Enteritis,102070
+1679,Violence,73492694
+1680,Follow-Up Studies,91609
+1681,"Nursing Staff, Hospital",276
+1682,Acetaminophen,647881
+1683,Behavior Therapy,243996
+1684,"Infant, Newborn, Diseases",171
+1685,Leiomyoma,59288
+1686,"Hypoxia-Inducible Factor 1, alpha Subunit",521
+1687,"Education, Public Health Professional",18
+1688,Polyglactin 910,1699
+1689,Donor Selection,9622
+1690,Classification,15843321
+1691,Polyethylene,1338850
+1692,Osteochondritis Dissecans,14957
+1693,"Diagnostic Techniques, Ophthalmological",34
+1694,Estrogen Replacement Therapy,17681
+1695,Disaster Planning,63328
+1696,Sufentanil,37117
+1697,Treatment Refusal,2882
+1698,"Analgesics, Non-Narcotic",270
+1699,"Anemia, Hemolytic",2108
+1700,Cardiovascular Diseases,567657
+1701,Energy Intake,223511
+1702,Laser Therapy,197151
+1703,Physical Fitness,787877
+1704,"Surgery Department, Hospital",409
+1705,Asthma,6382646
+1706,Endoscopy,835561
+1707,Cardiovascular Surgical Procedures,3562
+1708,Chemoprevention,110880
+1709,CA-125 Antigen,47
+1710,"Anesthesia, Local",652
+1711,Abbreviated Injury Scale,6249
+1712,Dietetics,428641
+1713,Homocysteine,345240
+1714,Educational Measurement,21670
+1715,Contraindications,420466
+1716,Toluene,387635
+1717,Vision Tests,14702
+1718,"Hospitals, University",4569
+1719,Leukemia,3661050
+1720,Endolymphatic Hydrops,6916
+1721,New South Wales,4495376
+1722,Sleep Apnea Syndromes,2184
+1723,Patient Transfer,22877
+1724,School Admission Criteria,411
+1725,Hepatorenal Syndrome,19281
+1726,Molecular Sequence Data,10849
+1727,Health Services,7669554
+1728,DMF Index,206
+1729,"Infusions, Intravenous",467
+1730,Antihypertensive Agents,47464
+1731,Ligands,1145217
+1732,Survival,26531428
+1733,"Wounds, Nonpenetrating",34
+1734,Lidocaine,330866
+1735,Collagen,3132851
+1736,Retroperitoneal Space,6026
+1737,Crime,71815913
+1738,Alleles,1153393
+1739,"Fetal Membranes, Premature Rupture",51
+1740,Discriminant Analysis,100855
+1741,Ambulances,1080745
+1742,"Mammary Glands, Human",30
+1743,Antineoplastic Agents,23067
+1744,Multidetector Computed Tomography,11710
+1745,Gastric Mucosa,63689
+1746,Sirolimus,124541
+1747,Bisexuality,282386
+1748,Warfarin,655079
+1749,Sclerosis,3222602
+1750,Glioma,581693
+1751,Paralysis,2111584
+1752,Internet,106775427
+1753,Laparoscopy,251217
+1754,T-Lymphocytes,12857
+1755,Fibrinolytic Agents,2924
+1756,Menopause,1833993
+1757,"Infertility, Female",826
+1758,Liver,16527123
+1759,Phagocytes,108681
+1760,Ureteroscopy,20621
+1761,"Wounds, Gunshot",484
+1762,"Drug Resistance, Viral",201
+1763,Macular Degeneration,653444
+1764,Gastroenterology,1312473
+1765,Defecation,304660
+1766,Young Adult,7836035
+1767,Sleep,60796954
+1768,Poisoning,4407206
+1769,Dental Models,3804
+1770,alpha-Fetoproteins,165
+1771,Bone Neoplasms,1429
+1772,Pressure,71058756
+1773,Distance Perception,4794
+1774,Coronary Angiography,132436
+1775,Trachea,367624
+1776,"Blood Loss, Surgical",270
+1777,Medical Records,1966316
+1778,Androstenols,42
+1779,Male,51782634
+1780,General Surgery,475951
+1781,Dura Mater,50903
+1782,Neoplasm Invasiveness,349
+1783,Anastomotic Leak,21307
+1784,Gallbladder Neoplasms,192
+1785,Postmenopause,19002
+1786,Survival Analysis,138837
+1787,Sports Equipment,267348
+1788,Cell Line,1293305
+1789,Papanicolaou Test,626
+1790,Tissue Donors,16752
+1791,Estrogens,307076
+1792,Fracture Fixation,16746
+1793,Equipment Design,56087
+1794,Synapses,800075
+1795,Wales,26352900
+1796,Weight Reduction Programs,1613
+1797,Terminology as Topic,202
+1798,Glial Fibrillary Acidic Protein,29908
+1799,Alprostadil,29896
+1800,Uterine Contraction,9702
+1801,Retirement,25896687
+1802,Respiratory Tract Diseases,5740
+1803,Treatment Outcome,141314
+1804,Residence Characteristics,791
+1805,Australian Capital Territory,240509
+1806,Queensland,8828668
+1807,Optometry,677572
+1808,"Pregnancy Trimester, Third",140
+1809,Memory Disorders,37898
+1810,Family Conflict,80262
+1811,Animals,57283664
+1812,"Pregnancy Trimester, First",141
+1813,"Epilepsies, Partial",39
+1814,"Antibodies, Viral",1374
+1815,Crown-Rump Length,5854
+1816,Anal Canal,40593
+1817,Vitamin D Deficiency,22621
+1818,Assisted Living Facilities,244024
+1819,Anti-Bacterial Agents,7037
+1820,Latex Hypersensitivity,490
+1821,Italy,42131502
+1822,Anxiety,21660516
+1823,Nortropanes,34
+1824,Ambulatory Care,203444
+1825,Pancreatic Diseases,12096
+1826,Hypoglycemic Agents,26307
+1827,Hospital Records,107723
+1828,Vertebral Artery,65457
+1829,"Muscle, Skeletal",2754
+1830,"Pulmonary Disease, Chronic Obstructive",883
+1831,Reoperation,80235
+1832,Automobile Driving,8136
+1833,Sex Distribution,26947
+1834,Hospitals,25895073
+1835,Self Report,28814
+1836,"Decision Support Systems, Clinical",143
+1837,DNA Fragmentation,3208
+1838,Water,303138098
+1839,Vagina,1595241
+1840,Enema,199423
+1841,Advance Directives,102945
+1842,Skin Diseases,261343
+1843,Reaction Time,471546
+1844,"Intubation, Intratracheal",126
+1845,Norway,13696175
+1846,"Embolism, Air",124
+1847,Anterior Cruciate Ligament Reconstruction,32230
+1848,Prognosis,2797126
+1849,"Blotting, Western",1151
+1850,Pectins,25354
+1851,"Fatty Acids, Omega-3",1227
+1852,Egypt,41048586
+1853,Ruthenium Radioisotopes,15
+1854,Tissue Adhesions,2219
+1855,Gonorrhea,401656
+1856,"Fatty Liver, Alcoholic",605
+1857,"Menisci, Tibial",98
+1858,"Hierarchy, Social",1213
+1859,Electrolytes,670860
+1860,Pain Measurement,4499
+1861,"Databases, Factual",1049
+1862,Community Mental Health Centers,30621
+1863,Stainless Steel,6526070
+1864,Inflammation,8645991
+1865,Consanguinity,124335
+1866,Blood Proteins,18605
+1867,Gastrointestinal Stromal Tumors,34883
+1868,Elasticity,1421144
+1869,Bone Nails,179
+1870,Iliac Artery,44063
+1871,Athletes,20071732
+1872,Hot Flashes,255799
+1873,"Hepatitis C, Chronic",558
+1874,Hearing Disorders,25271
+1875,Phonetics,284347
+1876,Dogs,32235980
+1877,Unnecessary Procedures,23625
+1878,Urodynamics,24114
+1879,Polymerase Chain Reaction,606214
+1880,Age Distribution,150730
+1881,Health Policy,2158355
+1882,KCNQ1 Potassium Channel,36
+1883,Flaviviridae Infections,174
+1884,Nurse-Patient Relations,602
+1885,Trauma Centers,89370
+1886,Antivenins,2170
+1887,"Practice Patterns, Physicians'",121
+1888,Registries,994007
+1889,Mosaicism,72803
+1890,Postoperative Period,91261
+1891,Radiation Oncology,464189
+1892,Intraoperative Complications,12589
+1893,Acetylglucosaminidase,247
+1894,Prospective Studies,188135
+1895,Pancreas,1442893
+1896,Uterus,1690144
+1897,NADPH Oxidases,826
+1898,Puberty,1568729
+1899,Antirheumatic Agents,1332
+1900,Tandem Mass Spectrometry,82905
+1901,Glutamic Acid,122073
+1902,Ventricular Premature Complexes,1474
+1903,Blood Chemical Analysis,232
+1904,"Oncology Service, Hospital",249
+1905,Graft Survival,56915
+1906,"Urinary Incontinence, Stress",175
+1907,Body Height,39741
+1908,Primary Health Care,648812
+1909,Neuromuscular Nondepolarizing Agents,39
+1910,"Suicide, Attempted",2541
+1911,Spermatic Cord Torsion,414
+1912,Syndrome,20158780
+1913,Leukocyte L1 Antigen Complex,23
+1914,Iatrogenic Disease,4404
+1915,Lymphatic Irradiation,321
+1916,Hyperglycemia,429044
+1917,Surge Capacity,55011
+1918,Down Syndrome,530308
+1919,Saphenous Vein,56956
+1920,Eosinophils,234417
+1921,Injections,2971426
+1922,Light,229549906
+1923,Urinary Bladder,156328
+1924,Tidal Volume,71675
+1925,Growth,130645308
+1926,Perioperative Care,32443
+1927,Mexico,50512740
+1928,beta Catenin,2865
+1929,Chi-Square Distribution,16219
+1930,Hepatitis C,563145
+1931,Outcome Assessment (Health Care),164
+1932,Cresols,7136
+1933,Lumbar Vertebrae,41404
+1934,Fibronectins,2152
+1935,"Aged, 80 and over",8186
+1936,Autistic Disorder,45478
+1937,Head Movements,57949
+1938,Marital Status,1156867
+1939,Centers for Medicare and Medicaid Services (U.S.),10
+1940,Cell Enlargement,3856
+1941,Disease Management,406064
+1942,"Drug Therapy, Combination",1247
+1943,Intraocular Pressure,177692
+1944,Mice,16009891
+1945,"Disruptive, Impulse Control, and Conduct Disorders",134
+1946,Astrocytes,532656
+1947,Alismataceae,2374
+1948,Scotland,31807972
+1949,Periodicals as Topic,633
+1950,"Carcinoma, Ductal, Breast",136
+1951,Tonsillectomy,98289
+1952,Chronic Periodontitis,51032
+1953,Neutrophil Infiltration,21499
+1954,Argentina,12425022
+1955,Dyslexia,1080041
+1956,Gingival Crevicular Fluid,12569
+1957,Focus Groups,934262
+1958,Skin,60022334
+1959,Cardiac Catheterization,133242
+1960,Plant Proteins,53759
+1961,"Education, Nursing, Continuing",47
+1962,Cerebral Angiography,13376
+1963,Impetigo,67015
+1964,Bronchoscopy,142387
+1965,Cerebral Infarction,59703
+1966,APACHE,620951
+1967,Communication Barriers,51621
+1968,Achilles Tendon,42003
+1969,National Institutes of Health (U.S.),1588
+1970,Vasodilation,161398
+1971,Labor Presentation,115
+1972,Platelet Aggregation Inhibitors,2665
+1973,Creatinine,896704
+1974,Physical Therapy Modalities,3049
+1975,"Models, Organizational",1421
+1976,Seizures,3723205
+1977,Astrocytoma,104196
+1978,Drug Carriers,19027
+1979,Permeability,1424245
+1980,Spectrophotometry,86047
+1981,Norepinephrine,407233
+1982,Plant Diseases,93148
+1983,Medical History Taking,1725
+1984,In Vitro Techniques,7137
+1985,South Africa,30968418
+1986,"Obstetric Labor, Premature",111
+1987,Disease Susceptibility,50653
+1988,Hand Disinfection,6104
+1989,"Hospitals, Proprietary",172
+1990,Mandibular Condyle,11002
+1991,Fetal Weight,22778
+1992,"Neoplasm, Residual",153
+1993,Meat Products,343982
+1994,Uterine Diseases,1669
+1995,Respiration Disorders,303
+1996,Licensure,1693545
+1997,Incidental Findings,34825
+1998,Perception,22485275
+1999,Decision Making,6346441
+2000,Meniere Disease,814
+2001,Metoprolol,196941
+2002,Tumor Burden,64203
+2003,Phenotype,2413369
+2004,Animal Diseases,104566
+2005,Reference Standards,65261
+2006,Speech Disorders,36046
+2007,Orthodontics,535970
+2008,Neoadjuvant Therapy,42491
+2009,Cultural Characteristics,65111
+2010,"Abortion, Eugenic",83
+2011,Neurosurgical Procedures,15617
+2012,Radionuclide Angiography,3362
+2013,Early Diagnosis,485391
+2014,Pelvic Floor,341736
+2015,Herniorrhaphy,8680
+2016,Self Care,270225
+2017,Pulmonary Valve,43998
+2018,Universal Coverage,138234
+2019,Video-Assisted Surgery,708
+2020,Exfoliation Syndrome,2524
+2021,Molar,895021
+2022,Fentanyl,1754377
+2023,Urologic Surgical Procedures,672
+2024,Age Factors,6893
+2025,Medical Assistance,946193
+2026,Serotyping,28321
+2027,Thrombolytic Therapy,48241
+2028,"Anesthesia, Conduction",99
+2029,Histological Techniques,6291
+2030,Kell Blood-Group System,2
+2031,Cadaver,538467
+2032,Gingival Hemorrhage,494
+2033,Aortic Diseases,5383
+2034,Metals,10259143
+2035,Transurethral Resection of Prostate,3184
+2036,Multimodal Imaging,19064
+2037,"Urologic Surgical Procedures, Male",15
+2038,Ibuprofen,895889
+2039,"Shock, Hemorrhagic",257
+2040,Hospital Costs,82203
+2041,Health Surveys,102191
+2042,"Ventricular Function, Left",371
+2043,Edema,1323068
+2044,"Estrogens, Conjugated (USP)",26
+2045,Positron-Emission Tomography,10788
+2046,Personnel Selection,37203
+2047,Management Information Systems,268036
+2048,gamma-Aminobutyric Acid,48636
+2049,Hirschsprung Disease,2111
+2050,Practice Guidelines as Topic,610
+2051,Dimethylpolysiloxanes,279
+2052,Communication,64960442
+2053,Ischemic Postconditioning,2741
+2054,European Continental Ancestry Group,887
+2055,Tacrolimus,177998
+2056,Journal Impact Factor,53920
+2057,Emergency Medical Service Communication Systems,13
+2058,"Malocclusion, Angle Class I",4
+2059,Stroke Rehabilitation,57797
+2060,"Pregnancy, High-Risk",191
+2061,Personality Assessment,72121
+2062,Advance Care Planning,84868
+2063,Gene Frequency,12714
+2064,Attitude to Health,3405
+2065,Auditory Threshold,3084
+2066,Third Ventricle,35808
+2067,Research Design,427962
+2068,Torque teno virus,1247
+2069,Aortic Aneurysm,186805
+2070,"Killer Cells, Natural",492
+2071,Action Potentials,150629
+2072,Benzamidines,107
+2073,Medication Errors,135548
+2074,"Societies, Medical",3302
+2075,Organ Size,14137
+2076,Risk-Taking,639902
+2077,"Arthroplasty, Replacement, Hip",326
+2078,Choroid Neoplasms,21
+2079,Acute-Phase Reaction,1139
+2080,Medication Adherence,173104
+2081,"Hospitals, County",1204
+2082,Physicians,14850809
+2083,Feedback,31426064
+2084,HIV Infections,14279
+2085,Celiprolol,2960
+2086,United States Food and Drug Administration,115440
+2087,Prostatectomy,245733
+2088,Health Behavior,178403
+2089,"Fasciitis, Necrotizing",135
+2090,Cerebrospinal Fluid Rhinorrhea,1518
+2091,"Physicians, Family",3833
+2092,Antimalarials,54934
+2093,Leukocyte Count,35087
+2094,Adenomatous Polyps,16342
+2095,Predictive Value of Tests,1749
+2096,Emergency Medicine,1412202
+2097,C-Reactive Protein,29944
+2098,Suburethral Slings,460
+2099,Attitude of Health Personnel,750
+2100,Skin Neoplasms,2127
+2101,Liver Function Tests,91974
+2102,Gallbladder Diseases,2322
+2103,Hepatocytes,431185
+2104,Splenectomy,95755
+2105,"Diagnosis, Differential",3757
+2106,Pharmaceutical Preparations,37478
+2107,Arginine,470710
+2108,Anaphylaxis,487221
+2109,Survival Rate,728090
+2110,Coinfection,99378
+2111,Pilot Projects,349071
+2112,Aorta,713310
+2113,DNA Primers,1094
+2114,Educational Status,60033
+2115,Intellectual Disability,541902
+2116,Private Practice,1797673
+2117,Child,201909456
+2118,Aspirin,1860160
+2119,Orthodontic Space Closure,594
+2120,Somatosensory Disorders,902
+2121,Blood-Brain Barrier,354610
+2122,"Fracture Fixation, Internal",94
+2123,Common Cold,533041
+2124,"Reflex, Vestibulo-Ocular",36
+2125,Analysis of Variance,355290
+2126,Russia,70942336
+2127,Rescue Work,78304
+2128,Dental Stress Analysis,24
+2129,Thyroid Neoplasms,3884
+2130,Mandible,369500
+2131,"Sexual Dysfunction, Physiological",93
+2132,Opioid-Related Disorders,775
+2133,"Pneumonia, Aspiration",624
+2134,Medical Audit,4304
+2135,Exercise Test,58725
+2136,Optical Imaging,117170
+2137,X-Ray Microtomography,2459
+2138,Kidney Function Tests,7359
+2139,"Dermatitis, Occupational",170
+2140,"Botulinum Toxins, Type A",40
+2141,Internal Medicine,2356733
+2142,"Stress, Mechanical",763
+2143,Asphyxia,173696
+2144,Oral Surgical Procedures,3258
+2145,"Triiodothyronine, Reverse",76
+2146,Attention,93296571
+2147,Achievement,20527837
+2148,Hypesthesia,6813
+2149,Phytotherapy,57775
+2150,Brain Neoplasms,2754
+2151,Problem-Based Learning,72087
+2152,Pregnancy Rate,102076
+2153,Prefrontal Cortex,575590
+2154,Brassica napus,30588
+2155,Agriculture,29581898
+2156,Atrial Appendage,60551
+2157,Ophthalmology,1630548
+2158,Chemoradiotherapy,100689
+2159,"Antibodies, Anticardiolipin",190
+2160,Gastroplasty,13466
+2161,Oocyte Retrieval,16797
+2162,Intervertebral Disc Displacement,267
+2163,Safety,116953437
+2164,Orchiectomy,31553
+2165,Fluorodeoxyglucose F18,299
+2166,Phimosis,36766
+2167,Bronchodilator Agents,425
+2168,Motivational Interviewing,138007
+2169,Urinary Bladder Neoplasms,1187
+2170,Physical Stimulation,19561
+2171,Terminally Ill,673237
+2172,Hematocrit,169844
+2173,"Aneurysm, Ruptured",213
+2174,"Radiotherapy, Adjuvant",214
+2175,"Rupture, Spontaneous",92
+2176,Orthodontic Appliances,61516
+2177,Femoral Fractures,19225
+2178,Surgical Wound Infection,4074
+2179,Jews,32323411
+2180,Oceanic Ancestry Group,472
+2181,Proteinuria,284673
+2182,Patient Simulation,8383
+2183,"Models, Econometric",303
+2184,"Reproductive Techniques, Assisted",142
+2185,Sick Role,9241
+2186,"Catheterization, Swan-Ganz",16
+2187,Psychiatric Status Rating Scales,748
+2188,Granuloma,151112
+2189,Neoplasms,636386
+2190,Alveolar Process,6934
+2191,"Hepatitis B, Chronic",226
+2192,Knee Joint,317788
+2193,London,135357243
+2194,Infarction,1772759
+2195,"Respiration, Artificial",467
+2196,Vascular Diseases,82372
+2197,"Biomarkers, Tumor",1231
+2198,Cross-Cultural Comparison,21648
+2199,"Infant, Premature, Diseases",118
+2200,Population Surveillance,5935
+2201,Radiation Dosage,10728
+2202,Football,84352566
+2203,Datasets as Topic,123
+2204,Muscarinic Antagonists,4447
+2205,Spinal Dysraphism,6073
+2206,Power Plants,3935496
+2207,Pneumoencephalography,1575
+2208,Recombinant Proteins,96393
+2209,Ambulatory Care Facilities,5873
+2210,Serotonin Uptake Inhibitors,2264
+2211,Catchment Area (Health),24
+2212,Pituitary Apoplexy,5858
+2213,Mitral Valve Insufficiency,2510
+2214,"Tumor Cells, Cultured",903
+2215,Cervical Intraepithelial Neoplasia,34540
+2216,Vasculitis,384769
+2217,Interleukin-1alpha,1441
+2218,Vomiting,2911296
+2219,Sodium,7778373
+2220,Interleukins,46544
+2221,Adenoma,302324
+2222,Cerebrovascular Disorders,9125
+2223,"Dermatitis, Allergic Contact",1483
+2224,Ureteral Calculi,4263
+2225,"Hospitals, Teaching",2148
+2226,Republic of Korea,1216593
+2227,North Carolina,24483100
+2228,Biopsy,2541946
+2229,Job Satisfaction,588006
+2230,Waist Circumference,202619
+2231,Comprehension,3371908
+2232,Luminescence,383468
+2233,Polymyalgia Rheumatica,24026
+2234,Data Collection,4625112
+2235,Health Status Disparities,768
+2236,House Calls,130981
+2237,Alpha-Globulins,206
+2238,Alcoholic Intoxication,4420
+2239,Vaginal Smears,5200
