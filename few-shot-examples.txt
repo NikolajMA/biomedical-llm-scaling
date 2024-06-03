@@ -1,0 +1,368 @@
+PubMedQA:
+
+Abstract: Evidence suggests substantial comorbidity between symptoms of somatization and depression in clinical as well as nonclinical populations. However, as most existing research has been retrospective or cross-sectional in design, very little is known about the specific nature of this relationship. In particular, it is unclear whether somatic complaints may heighten the risk for the subsequent development of depressive symptoms. We report findings on the link between symptoms of somatization (assessed using the SCL-90-R) and depression 5 years later (assessed using the CES-D) in an initially healthy cohort of community adults, based on prospective data from the RENO Diet-Heart Study. Gender-stratified multiple regression analyses revealed that baseline CES-D scores were the best predictors of subsequent depressive symptoms for men and women. Baseline scores on the SCL-90-R somatization subscale significantly predicted subsequent self-reported symptoms of depressed mood 5 years later, but only in women. However, somatic complaints were a somewhat less powerful predictor than income and age.
+
+Question: Do somatic complaints predict subsequent symptoms of depression?
+Answer: maybe
+
+Abstract: Epidemiological studies have suggested inverse relationships between blood pressure and prevalence of conditions such as migraine and headache. It is not yet clear whether similar relationships can be established for back pain in particular in prospective studies.
+Associations between blood pressure and chronic low back pain were explored in the cross-sectional HUNT 2 survey of a Norwegian county in 1995-1997, including 39,872 individuals who never used antihypertensive medication. A prospective study, comprising 17,209 initially back pain-free individuals and 5740 individuals reporting low back pain, was established by re-examinations in the HUNT 3 survey in 2006-2008. Associations were assessed by logistic regression with respect to systolic, diastolic and pulse pressure, with adjustment for education, work status, physical activity, smoking, body mass and lipid levels.In the cross-sectional study, all three blood pressure measures showed inverse relationships with prevalence of low back pain in both sexes. In the prospective study of disease-free women, baseline pulse pressure and systolic pressure were inversely associated with risk of low back pain [odds ratio (OR) 0.93 per 10 mm Hg increase in pulse pressure, 95% confidence interval (CI) 0.89-0.98, p = 0.007; OR 0.95 per 10 mm Hg increase in systolic pressure, 95% CI 0.92-0.99, p = 0.005]. Results among men were equivocal. No associations were indicated with the occurrence of pain in individuals with low back pain at baseline.
+
+Question: Does high blood pressure reduce the risk of chronic low back pain?
+Answer: yes
+
+Abstract: In patients with Los Angeles (LA) grade C or D oesophagitis, a positive relationship has been established between the duration of intragastric acid suppression and healing.AIM: To determine whether there is an apparent optimal time of intragastric acid suppression for maximal healing of reflux oesophagitis. Post hoc analysis of data from a proof-of-concept, double-blind, randomized study of 134 adult patients treated with esomeprazole (10 or 40 mg od for 4 weeks) for LA grade C or D oesophagitis. A curve was fitted to pooled 24-h intragastric pH (day 5) and endoscopically assessed healing (4 weeks) data using piecewise quadratic logistic regression.Maximal reflux oesophagitis healing rates were achieved when intragastric pH>4 was achieved for approximately 50-70% (12-17 h) of the 24-h period. Acid suppression above this threshold did not yield further increases in healing rates.
+
+Question: A model of healing of Los Angeles grades C and D reflux oesophagitis: is there an optimal time of acid suppression for maximal healing?
+Answer: yes
+
+Abstract: The aim of this study was to analyze the properties of the immune cell microenvironment of regional lymph nodes (LNs) positive for lung cancer. Twenty-four patients operated on for stages T1 and T2 of the NSCLC, were enrolled in the study. Peripheral blood and LN tissue were obtained from different lymph node sites and levels. As a control, LN tissue was taken from patients diagnosed with emphysema or pneumothorax. The cells from randomly chosen LN were tested by multi-color flow cytometry. Separate portions of LN were snap-frozen and examined for the presence of cytokeratin positive cells (CK). Propensity for apoptosis, level of TCR zeta chain expression of T cells and the number and maturation status of dendritic cells were confronted with the presence of CK-positive cells. The presence of metastases correlated with the downregulation of TCR zeta, especially CD8(+) T cells. The most striking feature was the reduction in the number of myeloid CD11c(+) dendritic cells in the LN of patients with LN metastases. This could be a reflection of the immunodeficient state observed in lung cancer patients. Even in the absence of metastases in the regional LN, the same type of changes in the LN microenvironment were observed in those LN located nearer the primary tumor.
+
+Question: Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?
+Answer: yes
+
+Abstract: The diagnosis of acute appendicitis is still difficult and the results are unsatisfactory in three particular patient groups: in children, in fertile-age women and in elderly patients. As our population ages, the challenge for expedient diagnosis and intervention in older age groups will become more and more significant. The present study aimed at clarifying the role of leukocyte count and C-reactive protein (CRP) measurements in the diagnosis of acute appendicitis in the elderly. In particular, are there patients with acute appendicitis but unelevated leukocyte count and CRP? Eighty-three consecutive elderly patients underwent appendectomy for suspected acute appendicitis. The mean leukocyte count and CRP value were calculated in patients with an uninflamed appendix (group A) and in those with acute appendicitis (group B). The percentages of patients with: (1) both values unelevated; (2) only leukocyte count elevated; (3) only CRP value elevated; (4) both values elevated were calculated within the groups A and B. There was no statistically significant difference in leukocyte counts or CRP values between patients with an uninflamed appendix (group A) and those with acute appendicitis (group B). When the patients were divided into the four subgroups, the most conspicuous finding was that group B (acute appendicitis, n = 73) contained no patients with both values unelevated.
+
+Question: Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?
+Answer: maybe
+
+MedQA:
+
+Question: A 9-year-old boy is brought to the emergency department by his parents with a 2-day history of weakness and joint pain. He was adopted 3 weeks ago from an international adoption agency and this is his first week in the United States. He says that he has been healthy and that he had an episode of sore throat shortly before his adoption. Physical exam reveals an ill-appearing boy with a fever, widespread flat red rash, and multiple subcutaneous nodules. The type of hypersensitivity seen in this patient's disease is also characteristic of which of the following diseases?
+
+A. Asthma
+B. Contact dermatitis
+C. Goodpasture syndrome
+D. Osteogenesis imperfecta
+
+Answer: C
+
+Question: A 30-year-old woman presents to her new doctor at 27 weeks' gestation with her second pregnancy. Her blood type is B- and the father of the child is B+. Her first child had an Apgar score of 7 at 1 minute and 9 at 5 minutes and has a B+ blood type. The fetus has a heart rate of 130/min and blood pressure of 100/58 mm Hg. There is a concern that the fetus may develop erythroblastosis fetalis (EF). Which of the following statements is true about erythroblastosis fetalis?
+
+A. Can occur with an Rh-negative mother and Rh-positive father.
+B. Rho(D) immune globulin should be administered during the first trimester.
+C. The combination of an Rh-positive mother and an Rh-negative fetus will cause the condition.
+D. In EF, IgM crosses the placenta and causes erythrocyte hemolysis in the fetus.
+
+Answer: A
+
+Question: A 71-year-old man comes to the emergency department because of a 2-month history of severe muscle cramps and back pain. He says that he is homeless and has not visited a physician in the past 20 years. He is 183 cm (6 ft 0 in) tall and weighs 62 kg (137 lb); BMI is 18.5 kg/m2. His blood pressure is 154/88 mm Hg. Physical examination shows pallor, multiple cutaneous excoriations, and decreased sensation over the lower extremities. Serum studies show:
+Calcium 7.2 mg/dL
+Phosphorus 5.1 mg/dL
+Glucose 221 mg/dL
+Creatinine 4.5 mg/dL
+
+An x-ray of the spine shows alternating sclerotic and radiolucent bands in the lumbar and thoracic vertebral bodies. Which of the following is the most likely explanation for these findings?"
+
+A. Tertiary hyperparathyroidism
+B. Secondary hyperparathyroidism
+C. Pseudohypoparathyroidism
+D. Multiple myeloma
+Answer: B
+
+Question: A 35-year-old man with a past medical history of HIV is hospitalized with a disseminated zoster infection and treated with IV acyclovir. His course of illness worsens on the 4th day after admission and his creatinine level increases to 4.2 mg/dL. Urinalysis shows birefringent needle-shaped crystals. What could have prevented this deterioration in the patient's renal function?
+
+A. Initial administration of glucocorticoids
+B. Obtaining a thorough history of patient allergies
+C. Adequate initial hydration
+D. Initial administration of allopurinol
+
+Answer: C
+
+Question: A 59-year-old man presents with intense, sharp pain in his toe for the past hour. He reports similar symptoms in the past and this is his 2nd visit to the emergency department this year with the same complaint. The patient is afebrile and the vital signs are within normal limits. On physical examination, there is significant erythema, swelling, warmth, and moderate pain on palpation of the right 1st toe. The remainder of the examination is unremarkable. A plain radiograph of the right foot reveals no abnormalities. Joint arthrocentesis of the inflamed toe reveals urate crystals. Laboratory studies show:
+Serum glucose (random) 170 mg/dL
+Sodium 140 mEq/L
+Potassium 4.1 mEq/L
+Chloride 100 mEq/L
+Uric acid 7.2 mg/dL
+Serum creatinine 0.8 mg/dL
+Blood urea nitrogen 9 mg/dL
+Cholesterol, total 170 mg/dL
+HDL-cholesterol 43 mg/dL
+LDL-cholesterol 73 mg/dL
+Triglycerides 135 mg/dL
+HDL: high-density lipoprotein; LDL: low-density lipoprotein
+Ibuprofen is prescribed for the acute treatment of this patient's symptoms. He is also put on chronic therapy to prevent the recurrence of future attacks. Which of the following drugs is 1st-line for chronic therapy of gout?
+
+A. Methotrexate
+B. Colchicine
+C. Allopurinol
+D. Indomethacin
+
+Answer: C
+
+MedMCQA:
+
+Question: True about diveiculitis:
+Choices:
+A. Occurs at any age
+B. Often incidental finding at operation
+C. Young patients have more aggressive disease
+D. Left sided colon involvement is more common
+Answer: D
+
+Question: Baclofen is used in: March 2011
+Choices:
+A. Parkinsonism
+B. Traumatic muscle spasm
+C. Spasticity
+D. Stroke
+Answer: C
+
+Question: Cauliflower ear is associated with:
+Choices:
+A. Otomycosis
+B. Hematoma
+C. Otosclerosis
+D. None of the above
+Answer: B
+
+Question: Abnormalities of copper metabolism are implicated in the pathogenesis of all the following except
+Choices:
+A. Wilson's disease
+B. Menkes Kinky-hair syndrome
+C. Indian childhood cirrhosis
+D. Keshan disease
+Answer: D
+
+Question: Stalking is______________type of offence?
+Choices:
+A. Cognisible and Bailable
+B. Non-cognisible and Bailable
+C. Cognisible and Non-Bailable
+D. Non-cognisible and Non Bailable
+Answer: A
+
+
+Proffesional Medicine:
+
+The following are multiple choice questions (with answers) about professional medicine.
+A 42-year-old man comes to the office for preoperative evaluation prior to undergoing adrenalectomy scheduled in 2 weeks. One month ago, he received care in the emergency department for pain over his right flank following a motor vehicle collision. At that time, blood pressure was 160/100 mm Hg and CT scan of the abdomen showed an incidental 10-cm left adrenal mass. Results of laboratory studies, including complete blood count, serum electrolyte concentrations, and liver function tests, were within the reference ranges. The patient otherwise had been healthy and had never been told that he had elevated blood pressure. He takes no medications. A follow-up visit in the office 2 weeks ago disclosed elevated urinary normetanephrine and metanephrine and plasma aldosterone concentrations. The patient was referred to a surgeon, who recommended the adrenalectomy. Today, vital signs are temperature 36.6°C (97.9°F), pulse 100/min, respirations 14/min, and blood pressure 170/95 mm Hg. Physical examination discloses no significant findings. Initial preoperative preparation should include treatment with which of the following?
+A. Labetalol
+B. A loading dose of potassium chloride
+C. Nifedipine
+D. Phenoxybenzamine
+Answer: D
+
+A 36-year-old male presents to the office with a 3-week history of low back pain. He denies any recent trauma but says that he climbs in and out of his truck numerous times a day for his job. Examination of the patient in the prone position reveals a deep sacral sulcus on the left, a posterior inferior lateral angle on the right, and a lumbosacral junction that springs freely on compression. The most likely diagnosis is
+A. left-on-left sacral torsion
+B. left-on-right sacral torsion
+C. right unilateral sacral flexion
+D. right-on-right sacral torsion
+Answer: D
+
+A previously healthy 32-year-old woman comes to the physician 8 months after her husband was killed in a car crash. Since that time, she has had a decreased appetite and difficulty falling asleep. She states that she is often sad and cries frequently. She has been rechecking the door lock five times before leaving her house and has to count exactly five pieces of toilet paper before she uses it. She says that she has always been a perfectionist but these urges and rituals are new. Pharmacotherapy should be targeted to which of the following neurotransmitters?
+A. Dopamine
+B. Glutamate
+C. Norepinephrine
+D. Serotonin
+Answer: D
+
+A 44-year-old man comes to the office because of a 3-day history of sore throat, nonproductive cough, runny nose, and frontal headache. He says the headache is worse in the morning and ibuprofen does provide some relief. He has not had shortness of breath. Medical history is unremarkable. He takes no medications other than the ibuprofen for pain. Vital signs are temperature 37.4°C (99.4°F), pulse 88/min, respirations 18/min, and blood pressure 120/84 mm Hg. Examination of the nares shows erythematous mucous membranes. Examination of the throat shows erythema and follicular lymphoid hyperplasia on the posterior oropharynx. There is no palpable cervical adenopathy. Lungs are clear to auscultation. Which of the following is the most likely cause of this patient's symptoms?
+A. Allergic rhinitis
+B. Epstein-Barr virus
+C. Mycoplasma pneumoniae
+D. Rhinovirus
+Answer: D
+
+A 22-year-old male marathon runner presents to the office with the complaint of right-sided rib pain when he runs long distances. Physical examination reveals normal heart and lung findings and an exhalation dysfunction at ribs 4-5 on the right. Which of the following muscles or muscle groups will be most useful in correcting this dysfunction utilizing a direct method?
+A. anterior scalene
+B. latissimus dorsi
+C. pectoralis minor
+D. quadratus lumborum
+Answer: C
+
+
+Medical Genetics:
+The following are multiple choice questions (with answers) about medical genetics.
+
+Large triplet repeat expansions can be detected by:
+A. polymerase chain reaction.
+B. single strand conformational polymorphism analysis.
+C. Southern blotting.
+D. Western blotting.
+Answer: C
+
+DNA ligase is
+A. an enzyme that joins fragments in normal DNA replication
+B. an enzyme of bacterial origin which cuts DNA at defined base sequences
+C. an enzyme that facilitates transcription of specific genes
+D. an enzyme which limits the level to which a particular nutrient reaches
+Answer: A
+
+A gene showing codominance
+A. has both alleles independently expressed in the heterozygote
+B. has one allele dominant to the other
+C. has alleles tightly linked on the same chromosome
+D. has alleles expressed at the same time in development
+Answer: A
+
+Which of the following conditions does not show multifactorial inheritance?
+A. Pyloric stenosis
+B. Schizophrenia
+C. Spina bifida (neural tube defects)
+D. Marfan syndrome
+Answer: D
+
+The stage of meiosis in which chromosomes pair and cross over is:
+A. prophase I
+B. metaphase I
+C. prophase II
+D. metaphase II
+Answer: A
+
+
+College Medicine:
+
+The following are multiple choice questions (with answers) about college medicine.
+Glucose is transported into the muscle cell:
+A. via protein transporters called GLUT4.
+B. only in the presence of insulin.
+C. via hexokinase.
+D. via monocarbylic acid transporters.
+Answer: A
+
+Which of the following is not a true statement?
+A. Muscle glycogen is broken down enzymatically to glucose-1-phosphate
+B. Elite endurance runners have a high proportion of Type I fibres in their leg muscles
+C. Liver glycogen is important in the maintenance of the blood glucose concentration
+D. Insulin promotes glucose uptake by all tissues in the body
+Answer: D
+
+In a genetic test of a newborn, a rare genetic disorder is found that has X-linked recessive transmission. Which of the following statements is likely true regarding the pedigree of this disorder?
+A. All descendants on the maternal side will have the disorder.
+B. Females will be approximately twice as affected as males in this family.
+C. All daughters of an affected male will be affected.
+D. There will be equal distribution of males and females affected.
+Answer: C
+
+A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?
+A. Increasing temperature, increasing moles of gas
+B. Increasing temperature, increasing volume
+C. Decreasing volume, decreasing temperature
+D. Decreasing moles of gas, increasing volume
+Answer: A
+
+An expected side effect of creatine supplementation is:
+A. muscle weakness.
+B. gain in body mass.
+C. muscle cramps.
+D. loss of electrolytes.
+Answer: B
+
+
+College Biology:
+
+The following are multiple choice questions (with answers) about college biology.
+Which of the following represents an accurate statement concerning arthropods?
+A. They possess an exoskeleton composed primarily of peptidoglycan.
+B. They possess an open circulatory system with a dorsal heart.
+C. They are members of a biologically unsuccessful phylum incapable of exploiting diverse habitats and nutrition sources.
+D. They lack paired, jointed appendages.
+Answer: B
+
+In a given population, 1 out of every 400 people has a cancer caused by a completely recessive allele, b. Assuming the population is in Hardy-Weinberg equilibrium, which of the following is the expected proportion of individuals who carry the b allele but are not expected to develop the cancer?
+A. 1/400
+B. 19/400
+C. 20/400
+D. 38/400
+Answer: D
+
+The presence of homologous structures in two different organisms, such as the humerus in the front limb of a human and a bird, indicates that
+A. the human and bird are polyphyletic species
+B. a human's and bird's evolution is convergent
+C. the human and bird belong to a clade
+D. the human and bird developed by analogy
+Answer: C
+
+According to the pressure-flow model of movement of phloem contents, photosynthate movement from source to sink is driven by
+A. an ATP-dependent pressure-flow pump
+B. a water-pressure potential gradient
+C. transpiration
+D. apoplastic diffusion
+Answer: B
+
+Which of the following contain DNA sequences required for the segregation of chromosomes in mitosis and meiosis?
+A. Telomeres
+B. Centromeres
+C. Nucleosomes
+D. Spliceosomes
+Answer: B
+
+
+Clinical Knowledge:
+
+The following are multiple choice questions (with answers) about clinical knowledge.
+The energy for all forms of muscle contraction is provided by:
+A. ATP.
+B. ADP.
+C. phosphocreatine.
+D. oxidative phosphorylation.
+Answer: A
+
+What is the difference between a male and a female catheter?
+A. Male and female catheters are different colours.
+B. Male catheters are longer than female catheters.
+C. Male catheters are bigger than female catheters.
+D. Female catheters are longer than male catheters.
+Answer: B
+
+In the assessment of the hand function which of the following is true?
+A. Abduction of the thumb is supplied by spinal root T2
+B. Opposition of the thumb by opponens policis is supplied by spinal root T1
+C. Finger adduction is supplied by the median nerve
+D. Finger abduction is mediated by the palmar interossei
+Answer: B
+
+How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?
+A. 4
+B. 3
+C. 2
+D. 1
+Answer: C
+
+Glycolysis is the name given to the pathway involving the conversion of:
+A. glycogen to glucose-1-phosphate.
+B. glycogen or glucose to fructose.
+C. glycogen or glucose to pyruvate or lactate.
+D. glycogen or glucose to pyruvate or acetyl CoA.
+Answer: C
+
+
+Anatomy
+
+The following are multiple choice questions (with answers) about anatomy.
+What is the embryological origin of the hyoid bone?
+A. The first pharyngeal arch
+B. The first and second pharyngeal arches
+C. The second pharyngeal arch
+D. The second and third pharyngeal arches
+Answer: D
+
+Which of these branches of the trigeminal nerve contain somatic motor processes?
+A. The supraorbital nerve
+B. The infraorbital nerve
+C. The mental nerve
+D. None of the above
+Answer: D
+
+The pleura
+A. have no sensory innervation.
+B. are separated by a 2 mm space.
+C. extend into the neck.
+D. are composed of respiratory epithelium.
+Answer: C
+
+In Angle's Class II Div 2 occlusion there is
+A. excess overbite of the upper lateral incisors.
+B. negative overjet of the upper central incisors.
+C. excess overjet of the upper lateral incisors.
+D. excess overjet of the upper central incisors.
+Answer: C
+
+Which of the following is the body cavity that contains the pituitary gland?
+A. Abdominal
+B. Cranial
+C. Pleural
+D. Spinal
+Answer: B
