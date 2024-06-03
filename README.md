@@ -33,8 +33,7 @@ lm_eval --model hf \ #Use "--model mamba-ssm" for Mamba models
     --output_path output-path #Specify path where eval results should be saved
     #--num_fewshot 5 for few-shot evaluations with 5 examples
 ```
-All evaluation results were logged to a Weights & Biases project, and exported to (insert repo path). Raw logged data is found in (insert repo path).
-
+All evaluation results were logged to a Weights & Biases project, and exported to 'eval-results/wandb-logs/cleaned' . Raw logged data from all evaluations is found in 'eval-results/raw-logs/logged-samples/all_logs'. Note that all logs containted in this file might not be uploaded individually, therefore it is recommended to download all_logs instead of accessing individual model logs. 
 
 When running OLMo and Mamba it is necesarry to 
 ```bash
